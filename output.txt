@@ -1,0 +1,5644 @@
+UNION INTERNATIONALE DES TÉLÉCOMMUNICATIONS 
+
+INTERNATIONAL TELECOMMUNICATION UNION 
+
+UNIÓN INTERNACIONAL DE TELECOMUNICACIONES 
+
+BUREAU DES RADIOCOMMUNICATIONS 
+
+RADIOCOMMUNICATION BUREAU 
+
+OFICINA DE RADIOCOMUNICACIONES 
+
+© I.T.U. 
+
+ 
+
+NB-SAT-Y16-150E
+
+RÉSEAU À SATELLITE 
+SATELLITE NETWORK 
+RED DE SATÉLITE 
+ADM. RESPONSABLE
+RESPONSIBLE ADM. 
+ADM. RESPONSABLE 
+NOTIFIÉ AU NOM DE 
+NOTIFIED ON BEHALF OF 
+NOTIFICADA EN NOMBRE DE 
+RENSEIGNEMENTS REÇUS PAR LE BUREAU LE / INFORMATION RECEIVED BY THE BUREAU ON / INFORMACIÓN RECIBIDA POR LA OFICINA EL 
+
+SECTION SPÉCIALE No 
+SPECIAL SECTION No. 
+SECCIÓN ESPECIAL N.o 
+BR IFIC / DATE 
+BR IFIC / DATE 
+BR IFIC / FECHA 
+NUMÉRO D’IDENTIFICATION 
+IDENTIFICATION NUMBER 
+NÚMERO DE IDENTIFICACIÓN 
+
+LONGITUDE NOMINALE
+NOMINAL LONGITUDE 
+LONGITUD NOMINAL 
+
+150 E
+
+J
+
+ 
+
+AP30A/E/756
+
+2845 / 16.05.2017
+
+116554021
+
+10.08.2016 
+
+Caractéristiques des assignations de fréquence publiées  
+
+en application de l’Article 4 de l’Appendice 30A du  
+
+Règlement des radiocommunications 
+
+La présente Section spéciale concerne des propositions d’assignations 
+nouvelles ou modifiées dans la Liste des liaisons de connexion pour les 
+Régions 1  et  3  indiquée  ci-dessous  par  une  croix  (X)  dans  la  case 
+appropriée.  
+ 
+[ X ] 
+
+Liste pour les Régions 1 et 3 dans la bande de fréquences 
+14,5- 14,8 GHz 
+Liste pour les Régions 1 et 3 dans la bande de fréquences 
+17,3-18,1 GHz 
+
+[ X ] 
+
+Elle comprend les Parties indiquées ci-dessous par une croix (X) dans la case 
+appropriée. 
+[ X ]  Partie A  -  Projets d’assignations nouvelles ou modifiées dans la Liste 
+
+[  ] 
+
+[  ] 
+
+appropriée pour les Régions 1 et 3. 
+
+Partie B  -  Assignations nouvelles ou modifiées ajoutées à la Liste pour 
+les  Régions 1  et  3  en  conséquence  de  l’application    avec 
+succès des dispositions de l’Article 4 de l’Appendice 30A. 
+
+Partie C  -  Annulation  d’une  Section  spéciale  Partie  A  publiée  et/ou 
+assignations de fréquence annulées des (de la) Liste(s) pour 
+les Régions 1 et 3 conformément au § 4.1.3, à la note de bas 
+de  page 9  du  § 4.1.5,  à  la  note  de  bas  de  page 10  du 
+§ 4.1.15 et/ou § 4.1.23 de l’Article 4 de l’Appendice 30A ou 
+Résolution 49 ou Résolution 548. 
+
+§ 4.1.3 
+
+ 
+
+SOUMIS AU TITRE DE 
+SUBMITTED UNDER 
+SOMETIDO CON ARREGLO A 
+
+ 
+
+ 
+
+Characteristics of frequency assignments published in application of 
+
+Article 4 of Appendix 30A to the Radio Regulations 
+
+This Special Section concerns proposed new or modified assignments 
+in the Regions 1 and 3 feeder-link List indicated below by an (X) in the 
+relevant box. 
+ 
+ 
+[ X ] 
+
+Regions 1 and 3 List in the frequency band 14.5-14.8 GHz 
+
+[ X ] 
+
+Regions 1 and 3 List in the frequency band 17.3-18.1 GHz 
+
+ 
+
+It is composed of the Parts indicated below by an (X) in the relevant box 
+ 
+[ X ] 
+
+Part A 
+
+in 
+
+[  ] 
+
+Part B 
+
+[  ] 
+
+Part C 
+
+-  Proposed  new  or  modified  assignments 
+appropriate Regions 1 and 3 List. 
+-  New or modified assignments entered in the Regions 1 
+and 3 List as a result of the successful application of the 
+provisions of Article 4 of Appendix 30A. 
+
+the 
+
+-  Cancellation  of  a  previously  published  Part  A  Special 
+Section  and/or  frequency  assignments  cancelled  from 
+the Regions 1 and 3 List(s) in accordance with § 4.1.3, 
+footnote 9  to  § 4.1.5,  footnote  10  to  § 4.1.15  and/or 
+4.1.23 of Article 4 of Appendix 30A or Resolution 49 or 
+Resolution 548. 
+
+Características de asignaciones de frecuencias publicadas  
+
+conforme al Artículo 4 del Apéndice 30A del  
+
+Reglamento de Radiocomunicaciones 
+
+Esta  Sección  Especial  trata  de  las  asignaciones  propuestas  nuevas  o 
+modificadas  en  la  Lista  de  enlaces  de  conexión  de  las  Regiones 1  y 3 
+indicada más abajo con una (X) en la casilla pertinente. 
+ 
+
+[ X ] 
+
+[ X ] 
+
+Lista  para  las  Regiones  1  y  3  en  la  banda  de  frecuencias 
+14,5-14,8 GHz 
+Lista  para  las  Regiones  1  y  3  en  la  banda  de  frecuencias 
+17,3-18,1 GHz 
+
+Se compone de las Partes indicadas a continuación con una (X) en la casilla 
+pertinente. 
+[ X ] 
+
+Parte A  -  Asignaciones  propuestas  nuevas  o  modificadas  en  la 
+
+[  ] 
+
+[  ] 
+
+Lista apropiada de las Regiones 1 y 3. 
+
+Parte B  -  Asignaciones  nuevas  o  modificadas  introducidas  en  la 
+Lista  de  las  Regiones  1  y  3  como  resultado  de  la 
+aplicación satisfactoria de las disposiciones del Artículo 4 
+del Apéndice 30A. 
+
+Parte C  -  Cancelación  de  una  Parte  A  de  la  Sección  Especial 
+previamente  publicada  y/o  de  las  asignaciones  de 
+frecuencia canceladas de la(s) Lista(s) de las Regiones 1 
+y 3, de conformidad con el § 4.1.3, la nota 9 del § 4.1.5, 
+la  nota 10  del  § 4.1.15  y/ó  4.1.23  del  Artículo  4  del 
+Apéndice 30A ó Resolución 49 ó Resolución 548. 
+
+DATE LIMITE POUR LA RÉCEPTION DES COMMENTAIRES : 
+EXPIRY DATE FOR THE RECEIPT OF COMMENTS : 
+FECHA LÍMITE PARA LA RECEPCIÓN DE LOS COMENTARIOS : 
+
+16.09.2017
+
+Page / Página / 页 / стр. / 1 ﺔﺤﻔﺼﻟا 
+
+  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+国际电信联盟
+无线电通信局
+
+МЕЖДУНАРОДНЫЙ СОЮЗ ЭЛЕКТРОСВЯЗИ 
+
+БЮРО РАДИОСВЯЗИ 
+
+ 
+ 
+
+دﺎـﲢﻻا
+ﻲـﻟوﺪﻟا
+تﻻﺎــﺼﺗﻼﻟ
+ﺔﻳﻮﻳداﺮﻟا
+تﻻﺎﺼﺗﻻا
+ 
+ﺐﺘﻜﻣ
+ 
+
+ 
+
+© I.T.U.
+
+ 
+
+ 
+
+ 
+
+卫星网络 
+СПУТНИКОВАЯ СЕТЬ 
+ﺔﻴﻠﺗﺎﺴﻟا ﺔﻜﺒﺸﻟا
+负责主管部门 
+ОТВЕТСТВЕННАЯ АДМ. 
+ﺔﻟوﺆﺴﳌا ةرادﻹا
+通知代表方 
+ЗАЯВЛЯЕТСЯ ОТ ИМЕНИ 
+ﻎﱠﻠﺒﻣ
+ﺎﻬﻨﻋ 
+ 
+ﻢﺳʪ
+通信局收到资料的日期
+
+NB-SAT-Y16-150E
+标称经度
+НОМИНАЛЬНАЯ ДОЛГОТА 
+ﻲﲰﻻا لﻮﻄﻟا ﻂﺧ
+
+ 
+
+150 E
+
+J
+
+ 
+
+ 
+
+ 
+
+特节编号 
+СПЕЦИАЛЬНАЯ СЕКЦИЯ № 
+ﻢﻗر صﺎﳋا ﻢﺴﻘﻟا
+无线电通信局国际频率信息通报/ 日期
+ИФИК БР / ДАТА 
+ﺎﻬﻤﻗر
+ﺎﻬﳜ
+ةﺮﺸﻨﻟا
+تاددﱰﻠﻟ
+ 
+ رʫو
+识别号 
+ИДЕНТИФИКАЦИОННЫЙ НОМЕР 
+ 
+ﻢﻗر فﺮﻌﺗ
+ﺔﻳﻮﳍا
+
+ﺔﻴﻣﻼﻋﻹا
+
+ﺔﻴﻟوﺪﻟا
+
+/
+
+AP30A/E/756
+
+2845 / 16.05.2017
+
+116554021
+
+10.08.2016 
+
+/ ДАТА ПОЛУЧЕНИЯ ИНФОРМАЦИИ БЮРО / 
+
+应用无线电规则附录30A第4条公布的频率指配的特性 
+
+تﺎﻣﻮﻠﻌﻣ
+ﺎﻬﻤﻠﺘﺳا
+ 
+ 
+
+ ﺐﺘﻜﳌا
+ ﰲ
+Характеристики частотных присвоений, публикуемые во 
+
+исполнение Статьи 4 Приложения 30A к Регламенту радиосвязи 
+
+本特节关系到以下相关括号内用X表示的1区和3区馈线链路清单中建
+议的新的或修改的指配。 
+ 
+[ X ] 
+[ X ] 
+
+14.5-14.8 GHz频带的1区和3区清单 
+17.3-18.1 GHz频带的1区和3区清单 
+
+Настоящая Специальная секция относится к предложенным новым 
+или  измененным  присвоениям  в  Списке  фидерных  линий  для 
+Районов  1  и  3,  как  отмечено  ниже  знаком  (Х)  в  соответствующей 
+графе. 
+[ X ] 
+[ X ] 
+
+Список для Районов 1 и 3 в полосе частот 14,5–14,8 ГГц 
+Список для Районов 1 и 3 в полосе частот 17,3–18,1 ГГц 
+
+由下列相关括号内用X表示的部分组成 
+
+[ X ]  A部分  - 适当的1区和3区清单中建议的新的或修改的指配。 
+
+[  ] 
+
+B部分  - 由于成功地应用附录30A第4条规定而登入1区和3区
+
+清单的新的或修改的指配。 
+
+[  ] 
+
+C部分  -根据附录30A第4条 4.1.3段脚注9至4.1.5段脚注10
+到4.1.15段和/或4.1.23段，或根据第49号决议，或
+根据第548号决议，删除一个以前公布的A部分特节
+和/或已从1区和3区清单中删除的频率指配。 
+
+§ 4.1.3 
+
+ 
+
+提交依据
+ЗАЯВЛЯЕТСЯ СОГЛАСНО
+ ﺐﺟﻮﲟ
+ﺔﻣﺪﻘﻣ
+
+ 
+
+ 
+
+ 
+
+ﰲ 
+ ﺔﻤﺋﺎﻗ
+
+ ةدﺎﻤﻠﻟ ًﺎﻘﻴﺒﻄﺗ ةرﻮﺸﻨﳌا ﺔﺼﺼﺨﳌا تاددﱰﻟا ﺺﺋﺎﺼﺧ
+
+4   
+ﻞﻴﻳﺬﺘﻟا ﻦﻣ
+ﻮﻳداﺮﻟا ﺢﺋاﻮﻠﻟ
+30A
+  ﺔﻟﺪﻌﻣ  وأ  ةﺪﻳﺪﺟ  تﺎﺼﻴﺼﲣ  لﺎﺧدإ  حاﱰﻗʪ  صﺎﳋا  ﻢﺴﻘﻟا  اﺬﻫ  ﻖﻠﻌﺘﻳ
+ ﲔﻤﻴﻠﻗﻺﻟ
+ ﺔﻳﺬﻐﺘﻟا تﻼﺻو
+1 و3 
+ 
+ ﺰﻣﺮﻟʪ ﻩʭدأ ﺔﻨﻴﺒﳌا
+.ﺐﺳﺎﻨﳌا ﻊﺑﺮﳌا ﰲ
+(X)
+ددﱰﻟا قﺎﻄﻧ ﰲ
+1و3
+ ﲔﻤﻴﻠﻗﻹا ﺔﻤﺋﺎﻗ
+GHz 14,8-14,5
+[ X ]
+ددﱰﻟا قﺎﻄﻧ ﰲ
+ ﲔﻤﻴﻠﻗﻹا ﺔﻤﺋﺎﻗ
+1و3
+[ X ]
+GHz 18,1-17,3
+  
+ﻊﺑﺮﳌا
+ ﰲ 
+ ﺐﺳﺎﻨﳌا
+. 
+ 
+ﻮﻫو ﻒﻟﺄﺘﻳ
+ءاﺰﺟﻷا
+ 
+ ﻦﻣ 
+رﺎﺸﳌا
+ﺎﻤﻴﻓ
+ ﻲﻠﻳ
+ 
+ 
+ﺎﻬﻴﻟإ
+ 
+ﺰﻣﺮﻟʪ
+(X)
+ﲔﻤﻴﻠﻗﻹا ﺔﻤﺋﺎﻗ
+A - 
+ﰲ ﺎﳍﺎﺧدإ حﱰﻘُﻳ ﺔﻟﺪﻌﻣ وأ ةﺪﻳﺪﺟ تﺎﺼﻴﺼﲣ
+ ءﺰﳉا
+ 
+[ X ]
+1
+و3. 
+ﲔﻤﻴﻠﻗﻹا ﺔﻤﺋﺎﻗ ﰲ ﺖﻠﺧدأ ﺔﻟﺪﻌﻣ وأ ةﺪﻳﺪﺟ تﺎﺼﻴﺼﲣ
+ B -   
+1و3
+ﺔﺠﻴﺘﻧ
+ءﺰﳉا
+4ﻦﻣ
+ﻞﻴﻳﺬﺘﻟا
+ةدﺎﳌا مﺎﻜﺣأ ﻖﻴﺒﻄﺗ حﺎﳒ
+ 
+30A
+ﻦﻣ ﺔﻴﻐﻠﻣ ددﺮﺗ تﺎﺼﻴﺼﲣ وأ/و ًﺎﻘﺑﺎﺳ رﻮﺸﻨﻣ
+ءﺰﺠﻠﻟ
+صﺎﺧ ﻢﺴﻗ ءﺎﻐﻟإ
+ C  -   
+ءﺰﳉا
+A
+ ﺔﻴﺷﺎﳊاو ،
+9 
+ ةﺮﻘﻔﻠﻟ ًﺎﻘﺒﻃ ،
+1 و3
+ ةﺮﻘﻔﻠﻟ
+ ،
+ ﲔﻤﻴﻠﻗﻹا (ﻢﺋاﻮﻗ) ﺔﻤﺋﺎﻗ
+3.1.4
+5.1.4
+10 
+ ةﺮﻘﻔﻠﻟ
+ ﻞﻴﻳﺬﺘﻟا ﰲ
+30A 
+ ةﺮﻘﻔﻟا وأ/و
+ 
+ 
+ ةدﺎﳌا ﻦﻣ
+4 
+ ﺔﻴﺷﺎﳊاو
+15.1.4
+23.1.4
+راﺮﻘﻟا وأ
+راﺮﻘﻟا وأ
+548. 
+49
+
+[  ]
+
+[  ]
+
+16.09.2017
+
+Она состоит из Частей, отмеченных ниже знаком (Х) в соответствующей 
+графе. 
+ 
+[ X ] 
+
+Часть A -  Предложенные новые или измененные присвоения  в  
+
+соответствующем Списке для Районов 1 и 3. 
+
+[  ] 
+
+[  ] 
+
+Часть B -  Новые  или  измененные  присвоения  в  Списке  для 
+Районов 1  и  3,  внесенные  в  результате  успешного 
+применения положений Статьи 4 Приложения 30A. 
+
+Часть C -  Аннулирование  ранее  опубликованной  Части  А 
+Специальной  секции  и/или  частотных  присвоений  в 
+Списке(-ах) для Районов 1 и 3 в соответствии с п. 4.1.3, 
+примечанием 9  п.  4.1.5,  примечанием  10  п. 4.1.15 
+и/или  п.  4.1.23  Статьи  4  Приложения  30А  или 
+Резолюцией 49 или Резолюцией 548. 
+
+接收意见的截止日期：
+ПРЕДЕЛЬНАЯ ДАТА ДЛЯ ПОЛУЧЕНИЯ ЗАМЕЧАНИЙ:
+مﻼﺘﺳﻻ
+ 
+تﺎﻘﻴﻠﻌﺘﻟا
+ﻲﺋﺎﻬﻨﻟا
+ 
+ﺪﻋﻮﳌا
+ 
+
+ 
+
+Page / Página / 页 / стр. / 2 ﺔﺤﻔﺼﻟا 
+
+  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+On  trouvera  la  description  des  éléments  de  données 
+utilisés dans les publications dans le document: 
+
+The  description  of  the  data  items  used  in  the 
+publications can be found in the document: 
+
+La  descripción  de  los  datos  empleados  en  las 
+publicaciones figura en el documento:  
+
+- ItemsDescription_F.pdf 
+- http://www.itu.int/ITU-R/space/brific/legend/ 
+
+- ItemsDescription_E.pdf 
+- http://www.itu.int/ITU-R/space/brific/legend/ 
+
+出版物中使用的数据项说明，见文件： 
+
+- ItemsDescription_C.pdf 
+- http://www.itu.int/ITU-R/space/brific/legend/ 
+
+Описание  элементов  данных,  используемых  в 
+данной публикации, содержится в документе: 
+
+- ItemsDescription_R.pdf 
+- http://www.itu.int/ITU-R/space/brific/legend/ 
+
+- ItemsDescription_S.pdf 
+- http://www.itu.int/ITU-R/space/brific/legend/ 
+ ﰲ ﺔﻠﻤﻌﺘﺴﳌا تﺎﻴﻄﻌﳌا ﺮﺻﺎﻨﻋ ﻒﺻو ﻰﻠﻋ عﻼﻃﻻا ﻦﻜﳝ
+:ﺔﻘﻴﺛﻮﻟا ﰲ تارﻮﺸﻨﳌا
+ItemsDescription_A.pdf 
+http://www.itu.int/ITU-R/space/brific/legend/
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+Page / Página / 页 / стр. / 3 ﺔﺤﻔﺼﻟا 
+
+  
+
+ 
+ 
+A1f3  Inter. sat. org.   
+B 
+
+BR1  Date of receipt 10.08.2016  BR20/BR21  BR IFIC no./part  2845/ 
+BR2  Adm. serial no.  
+
+14G 
+
+R 
+
+AP30A/E/756 
+
+A4a2b  West Long. tolerance limit 0.1 
+
+B3a1  Max. co-polar gain
+
+ 
+
+ 
+
+35
+
+B3a2  Max. cross-polar gain
+
+5 
+
+ 
+
+2D  Date of protection  10.08.2016 
+A3b  Adm. resp. A 
+
+C15a  Exclusive op. group U9 
+
+ 
+
+BR64  Date of receipt of 1st Res49   
+C5a  Noise temperature 
+
+750 
+
+ 
+
+ 
+
+A1f1  Notif. adm. J 
+
+A1a  Sat. Network NB-SAT-Y16-150E 
+
+BR3a/BR3b  Provision reference 4.1.3 
+
+SECTION SPECIALE / SPECIAL SECTION / SECCIÓN ESPECIAL / 特节 / СПЕЦИАЛЬНАЯ СЕКЦИЯ / صﺎﳋا ﻢﺴﻘﻟا 
+A 
+BR6a/BR6b  Id. no. 116554021 
+A1b  Plan beam identification 
+A1f2  Submitted on behalf 
+A4a1  Orbital long. 
+A11a  Start time UTC 
+14G (R) 
+  B1a  Beam designation 
+B3b1a  Co-polar ant. gain contours diag. 
+1019578 
+  BR7a  Group id. 
+
+A4a2a  East Long. tolerance limit 0.1 
+
+BR1  Date of receipt 10.08.2016 
+
+B1b  Steerable
+ 
+
+ 
+150 E 
+0
+
+B3f1  Boresight or aim point
+
+A11b  Stop time UTC
+
+B2  Emi-Rcp R 
+
+1019578 
+
+24
+
+Y 
+
+150 E
+
+0 S
+
+ 
+
+14G 
+
+BR62  Expiry date for bringing into use 
+C4a  Class of station 
+C6a  Polarization type 
+C11a1  Service area no. 
+
+EC 
+CR 
+
+ 
+
+1 
+
+C6b  Polarization angle
+C11a5e  Min. elev. angle
+
+ 
+
+A3a  Op. agency
+
+001
+
+10.08.2024   
+
+ 
+
+ 
+
+C3a  Assigned freq. band
+
+34500
+
+C11a5b  Longitude 
+C11a5c  Latitude 
+C11a5d  Altitude 
+BR49  Rain zone 
+
+C11a5b  Longitude 
+C11a5c  Latitude 
+C11a5d  Altitude 
+BR49  Rain zone 
+
+79.91 
+6.9 
+0 
+N 
+
+116.24 
+39.59 
+0 
+H 
+
+85.32 
+27.72 
+0 
+K 
+
+121.3 
+14.35 
+0 
+N 
+
+C11a3  Service area diagram
+
+C11a5a  Test points 
+
+96.16 
+16.81 
+0 
+P 
+
+102.6 
+17.97 
+0 
+N 
+
+103.78 
+1.3 
+0 
+P 
+
+90.41 
+23.72 
+0 
+N 
+
+121.53 
+25.05 
+0 
+N 
+Associated typical earth station antenna characteristics 
+
+C11a5a  Test points 
+131.46 
+34.18 
+0 
+M 
+
+126.47 
+37.27 
+0 
+M 
+
+131.9 
+43.16 
+0 
+J 
+
+106.83 
+-6.17 
+0 
+P 
+
+139.46 
+35.43 
+0 
+K 
+
+106.92 
+47.92 
+0 
+E 
+
+147.15 
+-9.47 
+0 
+P 
+
+112.75 
+-7.23 
+0 
+P 
+
+158.72 
+53.05 
+0 
+A 
+
+115.83 
+-31.93 
+0 
+K 
+
+174.07 
+-39.06 
+0 
+K 
+
+C10d3  Max. iso. gain 
+
+57 
+
+C10d4  Bmwdth 
+0.24 
+
+C10d5a1a  Co-polar ref. pattern 
+MODTES 
+
+C10d5b1a  Cross-polar ref. pattern 
+MODTES 
+
+C10d7  Ant. diameter 
+
+6 
+
+ 
+
+ 
+
+1
+
+14.56366  GHz 
+
+3
+
+14.60202 GHz
+
+5
+
+14.64038 GHz
+
+7 
+
+14.67874 GHz
+
+9
+
+14.7171  GHz
+
+11
+
+14.75546  GHz  13 
+
+C2a1  Assigned frequency / C2a2  Channel number 
+
+14.5253  GHz
+C7a 
+
+Design. of emission 
+
+Max. peak pwr 
+
+34M5D7W-- 
+
+27 
+
+C8b2  4 kHz 
+-48.4 
+
+ 
+ 
+C8i  Power control / C2a2  Channel number 
+
+C8h  Necessary bandwidth 
+
+-48.4 
+
+C8b1 
+
+Maximum Power density per Hz over ... 
+
+ 
+ 
+
+ 
+
+dB 
+
+3
+
+10 
+
+dB 
+
+5
+
+10 
+
+dB 
+
+7 
+
+10 
+
+dB 
+
+9
+
+10 
+
+dB 
+
+11
+
+10 
+
+dB 
+
+13 
+
+15 
+
+1
+
+10 
+
+dB 
+
+10 
+A12  Range of automatic gain control 
+ 
+1019579 
+  
+  BR7a  Group id. 
+
+1019579 
+
+BR62  Expiry date for bringing into use 
+C4a  Class of station 
+
+EC 
+
+ 
+
+BR1  Date of receipt 10.08.2016 
+
+ 
+
+A3a  Op. agency
+
+001
+
+2D  Date of protection  10.08.2016 
+A3b  Adm. resp. A 
+
+C15a  Exclusive op. group U9 
+
+10.08.2024   
+
+ 
+
+ 
+
+ 
+
+C3a  Assigned freq. band
+
+34500
+
+BR64  Date of receipt of 1st Res49   
+C5a  Noise temperature 
+
+750 
+
+  
+
+ 
+
+Page / Página / 页 / стр. / 4 ﺔﺤﻔﺼﻟا 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+CL 
+
+A1f1  Notif. adm. J 
+
+A1a  Sat. Network NB-SAT-Y16-150E 
+
+BR3a/BR3b  Provision reference 4.1.3 
+
+C6b  Polarization angle
+C11a5e  Min. elev. angle
+
+SECTION SPECIALE / SPECIAL SECTION / SECCIÓN ESPECIAL / 特节 / СПЕЦИАЛЬНАЯ СЕКЦИЯ / صﺎﳋا ﻢﺴﻘﻟا 
+A 
+BR6a/BR6b  Id. no. 116554021 
+C6a  Polarization type 
+C11a1  Service area no. 
+C11a5a  Test points are identical to group id. 
+  Associated typical earth station antenna characteristics are identical to group id. 
+C2a1  Assigned frequencies are identical to group id. 
+C7a/C8b/C8h  Designations of emissions and power characteristics are identical to group id. 
+C8i  Power control values are identical to group id. 
+A12  Range of automatic gain control 
+ 
+1019580 
+  
+  BR7a  Group id. 
+
+BR1  Date of receipt 10.08.2016 
+
+1019580 
+
+1019578
+
+1019578
+
+15 
+
+1 
+
+A1f3  Inter. sat. org.   
+B 
+
+C11a3  Service area diagram
+1019578
+1019578
+1019578
+
+BR1  Date of receipt 10.08.2016  BR20/BR21  BR IFIC no./part  2845/ 
+BR2  Adm. serial no.  
+
+14G 
+
+R 
+
+AP30A/E/756 
+
+ 
+
+A3a  Op. agency
+
+001
+
+ 
+
+ 
+
+ 
+
+1 
+
+EC 
+L  
+
+10.08.2024   
+
+C3a  Assigned freq. band
+
+C6b  Polarization angle
+C11a5e  Min. elev. angle
+
+BR62  Expiry date for bringing into use 
+C4a  Class of station 
+C6a  Polarization type 
+C11a1  Service area no. 
+C11a5a  Test points are identical to group id. 
+  Associated typical earth station antenna characteristics are identical to group id. 
+C2a1  Assigned frequencies are identical to group id. 
+C7a/C8b/C8h  Designations of emissions and power characteristics are identical to group id. 
+C8i  Power control values are identical to group id. 
+A12  Range of automatic gain control 
+ 
+1019581 
+  
+  BR7a  Group id. 
+
+BR1  Date of receipt 10.08.2016 
+
+1019581 
+
+15 
+
+0
+
+ 
+
+A3a  Op. agency
+
+001
+
+ 
+
+ 
+
+ 
+
+1 
+
+EC 
+L  
+
+10.08.2024   
+
+C3a  Assigned freq. band
+
+C6b  Polarization angle
+C11a5e  Min. elev. angle
+
+BR62  Expiry date for bringing into use 
+C4a  Class of station 
+C6a  Polarization type 
+C11a1  Service area no. 
+C11a5a  Test points are identical to group id. 
+  Associated typical earth station antenna characteristics are identical to group id. 
+C2a1  Assigned frequencies are identical to group id. 
+C7a/C8b/C8h  Designations of emissions and power characteristics are identical to group id. 
+C8i  Power control values are identical to group id. 
+A12  Range of automatic gain control 
+ 
+1019582 
+  
+  BR7a  Group id. 
+
+BR1  Date of receipt 10.08.2016 
+
+1019582 
+
+15 
+
+90
+
+2D  Date of protection  10.08.2016 
+A3b  Adm. resp. A 
+
+C15a  Exclusive op. group U9 
+
+BR64  Date of receipt of 1st Res49   
+C5a  Noise temperature 
+
+750 
+
+BR64  Date of receipt of 1st Res49   
+C5a  Noise temperature 
+
+750 
+
+34500
+
+ 
+
+C11a3  Service area diagram
+1019578
+1019578
+1019578
+
+1019578
+
+1019578
+
+2D  Date of protection  10.08.2016 
+A3b  Adm. resp. A 
+
+C15a  Exclusive op. group U9 
+
+34500
+
+ 
+
+C11a3  Service area diagram
+1019578
+1019578
+1019578
+
+1019578
+
+1019578
+
+2D  Date of protection  10.08.2016 
+
+ 
+
+Page / Página / 页 / стр. / 5 ﺔﺤﻔﺼﻟا 
+
+  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SECTION SPECIALE / SPECIAL SECTION / SECCIÓN ESPECIAL / 特节 / СПЕЦИАЛЬНАЯ СЕКЦИЯ / صﺎﳋا ﻢﺴﻘﻟا 
+A 
+BR6a/BR6b  Id. no. 116554021 
+
+A1a  Sat. Network NB-SAT-Y16-150E 
+
+A1f3  Inter. sat. org.   
+B 
+
+A1f1  Notif. adm. J 
+
+ 
+
+ 
+ 
+
+BR3a/BR3b  Provision reference 4.1.3 
+A3a  Op. agency
+
+001
+
+A3b  Adm. resp. A 
+
+BR1  Date of receipt 10.08.2016  BR20/BR21  BR IFIC no./part  2845/ 
+BR2  Adm. serial no.  
+C15a  Exclusive op. group U9 
+
+14G 
+
+R 
+
+AP30A/E/756 
+
+10.08.2024   
+
+BR62  Expiry date for bringing into use 
+C4a  Class of station 
+C6a  Polarization type 
+C11a1  Service area no. 
+C11a5a  Test points are identical to group id. 
+  Associated typical earth station antenna characteristics are identical to group id. 
+
+C6b  Polarization angle
+C11a5e  Min. elev. angle
+
+EC 
+CR 
+
+1 
+
+ 
+
+ 
+
+ 
+
+C3a  Assigned freq. band
+
+34500
+
+ 
+
+C11a3  Service area diagram
+1019578
+1019578
+
+BR64  Date of receipt of 1st Res49   
+C5a  Noise temperature 
+
+750 
+
+14.54448 GHz
+
+2
+
+14.58284  GHz 
+
+4
+
+14.6212  GHz
+
+6
+
+C7a/C8b/C8h  Designations of emissions and power characteristics are identical to group id. 
+
+14.65956 GHz
+1019578
+
+8 
+
+14.69792 GHz
+
+10
+
+14.73628 GHz
+
+12
+
+14.77464  GHz  14 
+
+C2a1  Assigned frequency / C2a2  Channel number 
+
+2
+
+dB 
+
+10 
+
+10 
+A12  Range of automatic gain control 
+ 
+1019583 
+  
+  BR7a  Group id. 
+
+1019583 
+
+dB 
+
+4
+
+10 
+
+dB 
+
+6
+
+10 
+
+dB 
+
+8 
+
+10 
+
+dB 
+
+10
+
+10 
+
+dB 
+
+12
+
+10 
+
+dB 
+
+14 
+
+C8i  Power control / C2a2  Channel number 
+
+15 
+
+BR1  Date of receipt 10.08.2016 
+
+ 
+
+A3a  Op. agency
+
+001
+
+2D  Date of protection  10.08.2016 
+A3b  Adm. resp. A 
+
+C15a  Exclusive op. group U9 
+
+ 
+
+ 
+
+ 
+
+1 
+
+EC 
+CL 
+
+10.08.2024   
+
+C3a  Assigned freq. band
+
+C6b  Polarization angle
+C11a5e  Min. elev. angle
+
+BR62  Expiry date for bringing into use 
+C4a  Class of station 
+C6a  Polarization type 
+C11a1  Service area no. 
+C11a5a  Test points are identical to group id. 
+  Associated typical earth station antenna characteristics are identical to group id. 
+C2a1  Assigned frequencies are identical to group id. 
+C7a/C8b/C8h  Designations of emissions and power characteristics are identical to group id. 
+C8i  Power control values are identical to group id. 
+A12  Range of automatic gain control 
+ 
+1019584 
+  
+  BR7a  Group id. 
+
+BR1  Date of receipt 10.08.2016 
+
+1019584 
+
+15 
+
+ 
+
+A3a  Op. agency
+
+001
+
+BR64  Date of receipt of 1st Res49   
+C5a  Noise temperature 
+
+750 
+
+34500
+
+ 
+
+C11a3  Service area diagram
+1019578
+1019578
+1019582
+
+1019578
+
+1019582
+
+2D  Date of protection  10.08.2016 
+A3b  Adm. resp. A 
+
+C15a  Exclusive op. group U9 
+
+ 
+
+EC 
+L  
+
+10.08.2024   
+
+BR62  Expiry date for bringing into use 
+C4a  Class of station 
+C6a  Polarization type 
+C11a1  Service area no. 
+C11a5a  Test points are identical to group id. 
+  Associated typical earth station antenna characteristics are identical to group id. 
+C2a1  Assigned frequencies are identical to group id. 
+
+C6b  Polarization angle
+C11a5e  Min. elev. angle
+
+1 
+
+ 
+
+0
+
+ 
+
+C3a  Assigned freq. band
+
+ 
+
+34500
+
+ 
+
+C11a3  Service area diagram
+1019578
+1019578
+1019582
+
+Page / Página / 页 / стр. / 6 ﺔﺤﻔﺼﻟا 
+
+BR64  Date of receipt of 1st Res49   
+C5a  Noise temperature 
+
+750 
+
+  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+A1a  Sat. Network NB-SAT-Y16-150E 
+
+SECTION SPECIALE / SPECIAL SECTION / SECCIÓN ESPECIAL / 特节 / СПЕЦИАЛЬНАЯ СЕКЦИЯ / صﺎﳋا ﻢﺴﻘﻟا 
+A 
+BR6a/BR6b  Id. no. 116554021 
+C7a/C8b/C8h  Designations of emissions and power characteristics are identical to group id. 
+C8i  Power control values are identical to group id. 
+A12  Range of automatic gain control 
+ 
+1019585 
+  
+  BR7a  Group id. 
+
+BR3a/BR3b  Provision reference 4.1.3 
+
+BR1  Date of receipt 10.08.2016 
+
+A1f1  Notif. adm. J 
+
+1019585 
+
+1019578
+
+1019582
+
+15 
+
+ 
+
+A1f3  Inter. sat. org.   
+B 
+
+ 
+
+A3a  Op. agency
+
+001
+
+BR1  Date of receipt 10.08.2016  BR20/BR21  BR IFIC no./part  2845/ 
+BR2  Adm. serial no.  
+
+14G 
+
+R 
+
+AP30A/E/756 
+
+2D  Date of protection  10.08.2016 
+A3b  Adm. resp. A 
+
+C15a  Exclusive op. group U9 
+
+ 
+
+ 
+
+ 
+
+1 
+
+EC 
+L  
+
+10.08.2024   
+
+C3a  Assigned freq. band
+
+C6b  Polarization angle
+C11a5e  Min. elev. angle
+
+BR62  Expiry date for bringing into use 
+C4a  Class of station 
+C6a  Polarization type 
+C11a1  Service area no. 
+C11a5a  Test points are identical to group id. 
+  Associated typical earth station antenna characteristics are identical to group id. 
+C2a1  Assigned frequencies are identical to group id. 
+C7a/C8b/C8h  Designations of emissions and power characteristics are identical to group id. 
+C8i  Power control values are identical to group id. 
+A12  Range of automatic gain control 
+ 
+1019586 
+  
+  BR7a  Group id. 
+
+BR1  Date of receipt 10.08.2016 
+
+1019586 
+
+15 
+
+90
+
+ 
+
+A3a  Op. agency
+
+001
+
+ 
+
+EC 
+CR 
+
+10.08.2024   
+
+BR62  Expiry date for bringing into use 
+C4a  Class of station 
+C6a  Polarization type 
+C11a1  Service area no. 
+C11a5a  Test points are identical to group id. 
+  Associated typical earth station antenna characteristics are identical to group id. 
+C2a1  Assigned frequencies are identical to group id. 
+
+C6b  Polarization angle
+C11a5e  Min. elev. angle
+
+1 
+
+ 
+
+ 
+
+C3a  Assigned freq. band
+
+BR64  Date of receipt of 1st Res49   
+C5a  Noise temperature 
+
+750 
+
+34500
+
+ 
+
+C11a3  Service area diagram
+1019578
+1019578
+1019582
+
+1019578
+
+1019582
+
+2D  Date of protection  10.08.2016 
+A3b  Adm. resp. A 
+
+C15a  Exclusive op. group U9 
+
+38360
+
+ 
+
+C11a3  Service area diagram
+1019578
+1019578
+1019578
+
+BR64  Date of receipt of 1st Res49   
+C5a  Noise temperature 
+
+750 
+
+C7a 
+
+C8b1 
+
+Design. of emission 
+
+Max. peak pwr 
+
+27 
+
+38M3D7W-- 
+C8i  Power control values are identical to group id. 
+A12  Range of automatic gain control 
+ 
+1019587 
+  
+  BR7a  Group id. 
+
+1019587 
+
+Maximum Power density per Hz over ... 
+
+C8b2  4 kHz 
+-48.8 
+
+ 
+ 
+
+C8h  Necessary bandwidth 
+
+-48.8 
+
+ 
+ 
+
+ 
+
+15 
+
+1019578
+
+BR1  Date of receipt 10.08.2016 
+
+ 
+
+A3a  Op. agency
+
+001
+
+2D  Date of protection  10.08.2016 
+A3b  Adm. resp. A 
+
+C15a  Exclusive op. group U9 
+
+BR62  Expiry date for bringing into use 
+C4a  Class of station 
+
+EC 
+
+ 
+
+10.08.2024   
+
+ 
+
+ 
+
+ 
+
+C3a  Assigned freq. band
+
+38360
+
+BR64  Date of receipt of 1st Res49   
+C5a  Noise temperature 
+
+ 
+
+Page / Página / 页 / стр. / 7 ﺔﺤﻔﺼﻟا 
+
+750 
+
+  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+CL 
+
+A1f1  Notif. adm. J 
+
+A1a  Sat. Network NB-SAT-Y16-150E 
+
+BR3a/BR3b  Provision reference 4.1.3 
+
+C6b  Polarization angle
+C11a5e  Min. elev. angle
+
+SECTION SPECIALE / SPECIAL SECTION / SECCIÓN ESPECIAL / 特节 / СПЕЦИАЛЬНАЯ СЕКЦИЯ / صﺎﳋا ﻢﺴﻘﻟا 
+A 
+BR6a/BR6b  Id. no. 116554021 
+C6a  Polarization type 
+C11a1  Service area no. 
+C11a5a  Test points are identical to group id. 
+  Associated typical earth station antenna characteristics are identical to group id. 
+C2a1  Assigned frequencies are identical to group id. 
+C7a/C8b/C8h  Designations of emissions and power characteristics are identical to group id. 
+C8i  Power control values are identical to group id. 
+A12  Range of automatic gain control 
+ 
+1019588 
+  
+  BR7a  Group id. 
+
+BR1  Date of receipt 10.08.2016 
+
+1019588 
+
+1019586
+
+1019578
+
+15 
+
+1 
+
+A1f3  Inter. sat. org.   
+B 
+
+C11a3  Service area diagram
+1019578
+1019578
+1019578
+
+BR1  Date of receipt 10.08.2016  BR20/BR21  BR IFIC no./part  2845/ 
+BR2  Adm. serial no.  
+
+14G 
+
+R 
+
+AP30A/E/756 
+
+ 
+
+A3a  Op. agency
+
+001
+
+ 
+
+ 
+
+ 
+
+1 
+
+EC 
+L  
+
+10.08.2024   
+
+C3a  Assigned freq. band
+
+C6b  Polarization angle
+C11a5e  Min. elev. angle
+
+BR62  Expiry date for bringing into use 
+C4a  Class of station 
+C6a  Polarization type 
+C11a1  Service area no. 
+C11a5a  Test points are identical to group id. 
+  Associated typical earth station antenna characteristics are identical to group id. 
+C2a1  Assigned frequencies are identical to group id. 
+C7a/C8b/C8h  Designations of emissions and power characteristics are identical to group id. 
+C8i  Power control values are identical to group id. 
+A12  Range of automatic gain control 
+ 
+1019589 
+  
+  BR7a  Group id. 
+
+BR1  Date of receipt 10.08.2016 
+
+1019589 
+
+15 
+
+0
+
+ 
+
+A3a  Op. agency
+
+001
+
+ 
+
+ 
+
+ 
+
+1 
+
+EC 
+L  
+
+10.08.2024   
+
+C3a  Assigned freq. band
+
+C6b  Polarization angle
+C11a5e  Min. elev. angle
+
+BR62  Expiry date for bringing into use 
+C4a  Class of station 
+C6a  Polarization type 
+C11a1  Service area no. 
+C11a5a  Test points are identical to group id. 
+  Associated typical earth station antenna characteristics are identical to group id. 
+C2a1  Assigned frequencies are identical to group id. 
+C7a/C8b/C8h  Designations of emissions and power characteristics are identical to group id. 
+C8i  Power control values are identical to group id. 
+A12  Range of automatic gain control 
+ 
+1019590 
+  
+  BR7a  Group id. 
+
+BR1  Date of receipt 10.08.2016 
+
+1019590 
+
+15 
+
+90
+
+2D  Date of protection  10.08.2016 
+A3b  Adm. resp. A 
+
+C15a  Exclusive op. group U9 
+
+BR64  Date of receipt of 1st Res49   
+C5a  Noise temperature 
+
+750 
+
+BR64  Date of receipt of 1st Res49   
+C5a  Noise temperature 
+
+750 
+
+38360
+
+ 
+
+C11a3  Service area diagram
+1019578
+1019578
+1019578
+
+1019586
+
+1019578
+
+2D  Date of protection  10.08.2016 
+A3b  Adm. resp. A 
+
+C15a  Exclusive op. group U9 
+
+38360
+
+ 
+
+C11a3  Service area diagram
+1019578
+1019578
+1019578
+
+1019586
+
+1019578
+
+2D  Date of protection  10.08.2016 
+
+ 
+
+Page / Página / 页 / стр. / 8 ﺔﺤﻔﺼﻟا 
+
+  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SECTION SPECIALE / SPECIAL SECTION / SECCIÓN ESPECIAL / 特节 / СПЕЦИАЛЬНАЯ СЕКЦИЯ / صﺎﳋا ﻢﺴﻘﻟا 
+A 
+BR6a/BR6b  Id. no. 116554021 
+
+A1a  Sat. Network NB-SAT-Y16-150E 
+
+A1f3  Inter. sat. org.   
+B 
+
+A1f1  Notif. adm. J 
+
+ 
+
+ 
+ 
+
+BR3a/BR3b  Provision reference 4.1.3 
+A3a  Op. agency
+
+001
+
+A3b  Adm. resp. A 
+
+BR1  Date of receipt 10.08.2016  BR20/BR21  BR IFIC no./part  2845/ 
+BR2  Adm. serial no.  
+C15a  Exclusive op. group U9 
+
+14G 
+
+R 
+
+AP30A/E/756 
+
+ 
+
+ 
+
+ 
+
+1 
+
+EC 
+CR 
+
+10.08.2024   
+
+C3a  Assigned freq. band
+
+C6b  Polarization angle
+C11a5e  Min. elev. angle
+
+BR62  Expiry date for bringing into use 
+C4a  Class of station 
+C6a  Polarization type 
+C11a1  Service area no. 
+C11a5a  Test points are identical to group id. 
+  Associated typical earth station antenna characteristics are identical to group id. 
+C2a1  Assigned frequencies are identical to group id. 
+C7a/C8b/C8h  Designations of emissions and power characteristics are identical to group id. 
+C8i  Power control values are identical to group id. 
+A12  Range of automatic gain control 
+ 
+1019591 
+  
+  BR7a  Group id. 
+
+BR1  Date of receipt 10.08.2016 
+
+1019591 
+
+15 
+
+ 
+
+A3a  Op. agency
+
+001
+
+ 
+
+ 
+
+ 
+
+1 
+
+EC 
+CL 
+
+10.08.2024   
+
+C3a  Assigned freq. band
+
+C6b  Polarization angle
+C11a5e  Min. elev. angle
+
+BR62  Expiry date for bringing into use 
+C4a  Class of station 
+C6a  Polarization type 
+C11a1  Service area no. 
+C11a5a  Test points are identical to group id. 
+  Associated typical earth station antenna characteristics are identical to group id. 
+C2a1  Assigned frequencies are identical to group id. 
+C7a/C8b/C8h  Designations of emissions and power characteristics are identical to group id. 
+C8i  Power control values are identical to group id. 
+A12  Range of automatic gain control 
+ 
+1019592 
+  
+  BR7a  Group id. 
+
+BR1  Date of receipt 10.08.2016 
+
+1019592 
+
+15 
+
+ 
+
+A3a  Op. agency
+
+001
+
+ 
+
+ 
+
+ 
+
+EC 
+L  
+
+10.08.2024   
+
+C3a  Assigned freq. band
+
+BR62  Expiry date for bringing into use 
+C4a  Class of station 
+C6a  Polarization type 
+C11a1  Service area no. 
+C11a5a  Test points are identical to group id. 
+  Associated typical earth station antenna characteristics are identical to group id. 
+C2a1  Assigned frequencies are identical to group id. 
+C7a/C8b/C8h  Designations of emissions and power characteristics are identical to group id. 
+C8i  Power control values are identical to group id. 
+
+C6b  Polarization angle
+C11a5e  Min. elev. angle
+
+1 
+
+0
+
+BR64  Date of receipt of 1st Res49   
+C5a  Noise temperature 
+
+750 
+
+BR64  Date of receipt of 1st Res49   
+C5a  Noise temperature 
+
+750 
+
+BR64  Date of receipt of 1st Res49   
+C5a  Noise temperature 
+
+750 
+
+38360
+
+ 
+
+C11a3  Service area diagram
+1019578
+1019578
+1019582
+
+1019586
+
+1019582
+
+2D  Date of protection  10.08.2016 
+A3b  Adm. resp. A 
+
+C15a  Exclusive op. group U9 
+
+38360
+
+ 
+
+C11a3  Service area diagram
+1019578
+1019578
+1019582
+
+1019586
+
+1019582
+
+2D  Date of protection  10.08.2016 
+A3b  Adm. resp. A 
+
+C15a  Exclusive op. group U9 
+
+38360
+
+ 
+
+C11a3  Service area diagram
+1019578
+1019578
+1019582
+
+1019586
+
+1019582
+
+ 
+
+Page / Página / 页 / стр. / 9 ﺔﺤﻔﺼﻟا 
+
+  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A1a  Sat. Network NB-SAT-Y16-150E 
+
+SECTION SPECIALE / SPECIAL SECTION / SECCIÓN ESPECIAL / 特节 / СПЕЦИАЛЬНАЯ СЕКЦИЯ / صﺎﳋا ﻢﺴﻘﻟا 
+A 
+BR6a/BR6b  Id. no. 116554021 
+A12  Range of automatic gain control 
+ 
+1019593 
+  
+  BR7a  Group id. 
+
+BR3a/BR3b  Provision reference 4.1.3 
+
+BR1  Date of receipt 10.08.2016 
+
+A1f1  Notif. adm. J 
+
+1019593 
+
+15 
+
+ 
+
+ 
+
+A1f3  Inter. sat. org.   
+B 
+
+BR1  Date of receipt 10.08.2016  BR20/BR21  BR IFIC no./part  2845/ 
+BR2  Adm. serial no.  
+
+14G 
+
+R 
+
+AP30A/E/756 
+
+ 
+
+A3a  Op. agency
+
+001
+
+90
+
+ 
+
+ 
+
+ 
+
+1 
+
+EC 
+L  
+
+10.08.2024   
+
+C3a  Assigned freq. band
+
+C6b  Polarization angle
+C11a5e  Min. elev. angle
+
+BR62  Expiry date for bringing into use 
+C4a  Class of station 
+C6a  Polarization type 
+C11a1  Service area no. 
+C11a5a  Test points are identical to group id. 
+  Associated typical earth station antenna characteristics are identical to group id. 
+C2a1  Assigned frequencies are identical to group id. 
+C7a/C8b/C8h  Designations of emissions and power characteristics are identical to group id. 
+C8i  Power control values are identical to group id. 
+A12  Range of automatic gain control 
+ 
+17G (R) 
+  B1a  Beam designation 
+B3b1a  Co-polar ant. gain contours diag. 
+1019594 
+  BR7a  Group id. 
+
+B1b  Steerable
+ 
+
+BR1  Date of receipt 10.08.2016 
+
+B3f1  Boresight or aim point
+
+B2  Emi-Rcp R 
+
+1019594 
+
+17G 
+
+15 
+
+Y 
+
+BR62  Expiry date for bringing into use 
+C4a  Class of station 
+C6a  Polarization type 
+C11a1  Service area no. 
+
+EC 
+CR 
+
+ 
+
+1 
+
+C6b  Polarization angle
+C11a5e  Min. elev. angle
+
+ 
+
+A3a  Op. agency
+
+001
+
+10.08.2024   
+
+ 
+
+ 
+
+C3a  Assigned freq. band
+
+34500
+
+2D  Date of protection  10.08.2016 
+A3b  Adm. resp. A 
+
+C15a  Exclusive op. group U9 
+
+BR64  Date of receipt of 1st Res49   
+C5a  Noise temperature 
+
+750 
+
+38360
+
+ 
+
+C11a3  Service area diagram
+1019578
+1019578
+1019582
+
+1019586
+
+1019582
+
+B3a1  Max. co-polar gain
+
+35
+
+B3a2  Max. cross-polar gain
+
+5 
+
+ 
+
+150 E
+
+0 S
+
+2D  Date of protection  10.08.2016 
+A3b  Adm. resp. A 
+
+C15a  Exclusive op. group U9 
+
+ 
+
+BR64  Date of receipt of 1st Res49   
+C5a  Noise temperature 
+
+600 
+
+C11a5b  Longitude 
+C11a5c  Latitude 
+C11a5d  Altitude 
+BR49  Rain zone 
+
+C11a5b  Longitude 
+C11a5c  Latitude 
+C11a5d  Altitude 
+BR49  Rain zone 
+
+79.91 
+6.9 
+0 
+N 
+
+116.24 
+39.59 
+0 
+H 
+
+85.32 
+27.72 
+0 
+K 
+
+121.3 
+14.35 
+0 
+N 
+
+C11a3  Service area diagram
+
+C11a5a  Test points 
+
+96.16 
+16.81 
+0 
+P 
+
+102.6 
+17.97 
+0 
+N 
+
+103.78 
+1.3 
+0 
+P 
+
+90.41 
+23.72 
+0 
+N 
+
+121.53 
+25.05 
+0 
+N 
+Associated typical earth station antenna characteristics 
+
+C11a5a  Test points 
+131.46 
+34.18 
+0 
+M 
+
+126.47 
+37.27 
+0 
+M 
+
+131.9 
+43.16 
+0 
+J 
+
+106.83 
+-6.17 
+0 
+P 
+
+139.46 
+35.43 
+0 
+K 
+
+106.92 
+47.92 
+0 
+E 
+
+147.15 
+-9.47 
+0 
+P 
+
+112.75 
+-7.23 
+0 
+P 
+
+158.72 
+53.05 
+0 
+A 
+
+114.1 
+22.4 
+0 
+N 
+
+174.07 
+-39.06 
+0 
+K 
+
+C10d3  Max. iso. gain 
+
+57 
+
+C10d4  Bmwdth 
+0.24 
+
+C10d5a1a  Co-polar ref. pattern 
+MODTES 
+
+C10d5b1a  Cross-polar ref. pattern 
+MODTES 
+
+C10d7  Ant. diameter 
+
+5 
+
+ 
+
+ 
+
+C2a1  Assigned frequency / C2a2  Channel number 
+
+17.32748 GHz
+
+1
+
+17.44256  GHz 
+
+7
+
+17.55764 GHz
+
+13
+
+17.67272 GHz
+
+19 
+
+17.7878  GHz
+
+25
+
+17.90288 GHz
+
+31
+
+18.01796  GHz  37 
+
+ 
+
+Page / Página / 页 / стр. / 10 ﺔﺤﻔﺼﻟا 
+
+  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A1a  Sat. Network NB-SAT-Y16-150E 
+
+SECTION SPECIALE / SPECIAL SECTION / SECCIÓN ESPECIAL / 特节 / СПЕЦИАЛЬНАЯ СЕКЦИЯ / صﺎﳋا ﻢﺴﻘﻟا 
+A 
+BR6a/BR6b  Id. no. 116554021 
+17.36584 GHz
+17.4042  GHz
+C7a 
+
+BR3a/BR3b  Provision reference 4.1.3 
+
+17.48092  GHz 
+9
+17.51928  GHz  11
+
+17.71108 GHz
+17.74944 GHz
+
+17.596 
+GHz
+17.63436 GHz
+
+A1f1  Notif. adm. J 
+
+15
+17
+
+C8b1 
+
+3
+5
+
+ 
+
+A1f3  Inter. sat. org.   
+B 
+
+21 
+23 
+
+ 
+
+Design. of emission 
+
+Max. peak pwr 
+
+34M5D7W-- 
+
+27 
+
+ 
+ 
+
+Maximum Power density per Hz over ... 
+C8b2  1 MHz 
+-48.4 
+
+-48.4 
+
+C8h  Necessary bandwidth 
+
+1
+3
+5
+
+10 
+10 
+10 
+
+dB 
+dB 
+dB 
+
+10 
+10 
+10 
+A12  Range of automatic gain control 
+ 
+1019595 
+  
+  BR7a  Group id. 
+
+1019595 
+
+dB 
+dB 
+dB 
+
+7
+9
+11
+15 
+
+10 
+10 
+10 
+
+dB 
+dB 
+dB 
+
+C8i  Power control / C2a2  Channel number 
+13
+15
+17
+
+19 
+21 
+23 
+
+10 
+10 
+10 
+
+dB 
+dB 
+dB 
+
+10 
+10 
+10 
+
+BR1  Date of receipt 10.08.2016  BR20/BR21  BR IFIC no./part  2845/ 
+BR2  Adm. serial no.  
+17.82616 GHz
+17.86452 GHz
+
+17.94124 GHz
+17.9796  GHz
+
+18.05632  GHz  39 
+ 
+ 
+
+33
+35
+
+27
+29
+
+17G 
+
+R 
+
+ 
+
+AP30A/E/756 
+
+ 
+ 
+
+ 
+
+10 
+10 
+10 
+
+dB 
+dB 
+dB 
+
+25
+27
+29
+
+dB 
+dB 
+dB 
+
+31
+33
+35
+
+10 
+10 
+ 
+
+dB 
+dB 
+ 
+
+37 
+39 
+ 
+
+BR1  Date of receipt 10.08.2016 
+
+ 
+
+A3a  Op. agency
+
+001
+
+2D  Date of protection  10.08.2016 
+A3b  Adm. resp. A 
+
+C15a  Exclusive op. group U9 
+
+ 
+
+ 
+
+ 
+
+1 
+
+EC 
+CL 
+
+10.08.2024   
+
+C3a  Assigned freq. band
+
+C6b  Polarization angle
+C11a5e  Min. elev. angle
+
+BR62  Expiry date for bringing into use 
+C4a  Class of station 
+C6a  Polarization type 
+C11a1  Service area no. 
+C11a5a  Test points are identical to group id. 
+  Associated typical earth station antenna characteristics are identical to group id. 
+C2a1  Assigned frequencies are identical to group id. 
+C7a/C8b/C8h  Designations of emissions and power characteristics are identical to group id. 
+C8i  Power control values are identical to group id. 
+A12  Range of automatic gain control 
+ 
+1019596 
+  
+  BR7a  Group id. 
+
+BR1  Date of receipt 10.08.2016 
+
+1019596 
+
+15 
+
+ 
+
+A3a  Op. agency
+
+001
+
+ 
+
+ 
+
+ 
+
+1 
+
+EC 
+L  
+
+10.08.2024   
+
+C3a  Assigned freq. band
+
+C6b  Polarization angle
+C11a5e  Min. elev. angle
+
+BR62  Expiry date for bringing into use 
+C4a  Class of station 
+C6a  Polarization type 
+C11a1  Service area no. 
+C11a5a  Test points are identical to group id. 
+  Associated typical earth station antenna characteristics are identical to group id. 
+C2a1  Assigned frequencies are identical to group id. 
+C7a/C8b/C8h  Designations of emissions and power characteristics are identical to group id. 
+C8i  Power control values are identical to group id. 
+A12  Range of automatic gain control 
+ 
+1019597 
+
+15 
+
+0
+
+BR64  Date of receipt of 1st Res49   
+C5a  Noise temperature 
+
+600 
+
+BR64  Date of receipt of 1st Res49   
+C5a  Noise temperature 
+
+600 
+
+34500
+
+ 
+
+C11a3  Service area diagram
+1019594
+1019594
+1019594
+
+1019594
+
+1019594
+
+2D  Date of protection  10.08.2016 
+A3b  Adm. resp. A 
+
+C15a  Exclusive op. group U9 
+
+34500
+
+ 
+
+C11a3  Service area diagram
+1019594
+1019594
+1019594
+
+1019594
+
+1019594
+
+ 
+
+Page / Página / 页 / стр. / 11 ﺔﺤﻔﺼﻟا 
+
+  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SECTION SPECIALE / SPECIAL SECTION / SECCIÓN ESPECIAL / 特节 / СПЕЦИАЛЬНАЯ СЕКЦИЯ / صﺎﳋا ﻢﺴﻘﻟا 
+A 
+BR6a/BR6b  Id. no. 116554021 
+
+BR3a/BR3b  Provision reference 4.1.3 
+
+A1a  Sat. Network NB-SAT-Y16-150E 
+
+A1f3  Inter. sat. org.   
+B 
+
+A1f1  Notif. adm. J 
+
+ 
+
+BR1  Date of receipt 10.08.2016  BR20/BR21  BR IFIC no./part  2845/ 
+BR2  Adm. serial no.  
+
+17G 
+
+R 
+
+AP30A/E/756 
+
+ 
+  
+
+  BR7a  Group id. 
+
+1019597 
+
+BR1  Date of receipt 10.08.2016 
+
+ 
+
+A3a  Op. agency
+
+001
+
+2D  Date of protection  10.08.2016 
+A3b  Adm. resp. A 
+
+C15a  Exclusive op. group U9 
+
+ 
+
+ 
+
+ 
+
+1 
+
+EC 
+L  
+
+10.08.2024   
+
+C3a  Assigned freq. band
+
+C6b  Polarization angle
+C11a5e  Min. elev. angle
+
+BR62  Expiry date for bringing into use 
+C4a  Class of station 
+C6a  Polarization type 
+C11a1  Service area no. 
+C11a5a  Test points are identical to group id. 
+  Associated typical earth station antenna characteristics are identical to group id. 
+C2a1  Assigned frequencies are identical to group id. 
+C7a/C8b/C8h  Designations of emissions and power characteristics are identical to group id. 
+C8i  Power control values are identical to group id. 
+A12  Range of automatic gain control 
+ 
+1019598 
+  
+  BR7a  Group id. 
+
+BR1  Date of receipt 10.08.2016 
+
+1019598 
+
+15 
+
+90
+
+ 
+
+A3a  Op. agency
+
+001
+
+10.08.2024   
+
+BR62  Expiry date for bringing into use 
+C4a  Class of station 
+C6a  Polarization type 
+C11a1  Service area no. 
+C11a5a  Test points are identical to group id. 
+  Associated typical earth station antenna characteristics are identical to group id. 
+
+C6b  Polarization angle
+C11a5e  Min. elev. angle
+
+EC 
+CR 
+
+1 
+
+ 
+
+ 
+
+ 
+
+C3a  Assigned freq. band
+
+BR64  Date of receipt of 1st Res49   
+C5a  Noise temperature 
+
+600 
+
+34500
+
+ 
+
+C11a3  Service area diagram
+1019594
+1019594
+1019594
+
+1019594
+
+1019594
+
+2D  Date of protection  10.08.2016 
+A3b  Adm. resp. A 
+
+C15a  Exclusive op. group U9 
+
+34500
+
+ 
+
+C11a3  Service area diagram
+1019594
+1019594
+
+BR64  Date of receipt of 1st Res49   
+C5a  Noise temperature 
+
+600 
+
+17.34666 GHz
+17.38502 GHz
+17.42338 GHz
+
+2
+4
+6
+
+8
+17.46174  GHz 
+17.5001  GHz  10
+17.53846  GHz  12
+
+17.57682 GHz
+17.61518 GHz
+17.65354 GHz
+
+14
+16
+18
+
+C7a/C8b/C8h  Designations of emissions and power characteristics are identical to group id. 
+
+17.6919  GHz
+17.73026 GHz
+17.76862 GHz
+1019594
+
+20 
+22 
+24 
+
+17.80698 GHz
+17.84534 GHz
+17.8837  GHz
+
+C2a1  Assigned frequency / C2a2  Channel number 
+
+dB 
+dB 
+dB 
+
+8
+10
+12
+15 
+
+10 
+10 
+10 
+
+dB 
+dB 
+dB 
+
+C8i  Power control / C2a2  Channel number 
+14
+16
+18
+
+20 
+22 
+24 
+
+10 
+10 
+10 
+
+dB 
+dB 
+dB 
+
+10 
+10 
+10 
+
+dB 
+dB 
+dB 
+
+26
+28
+30
+
+26
+28
+30
+
+17.92206 GHz
+17.96042 GHz
+17.99878 GHz
+
+10 
+10 
+10 
+
+dB 
+dB 
+dB 
+
+32
+34
+36
+
+32
+34
+36
+
+18.03714  GHz  38 
+18.0755  GHz  40 
+ 
+ 
+
+ 
+
+10 
+10 
+ 
+
+dB 
+dB 
+ 
+
+38 
+40 
+ 
+
+2
+4
+6
+
+10 
+10 
+10 
+
+dB 
+dB 
+dB 
+
+10 
+10 
+10 
+A12  Range of automatic gain control 
+ 
+1019599 
+  
+  BR7a  Group id. 
+
+1019599 
+
+BR62  Expiry date for bringing into use 
+C4a  Class of station 
+C6a  Polarization type 
+
+EC 
+CL 
+
+ 
+
+BR1  Date of receipt 10.08.2016 
+
+ 
+
+A3a  Op. agency
+
+001
+
+2D  Date of protection  10.08.2016 
+A3b  Adm. resp. A 
+
+C15a  Exclusive op. group U9 
+
+10.08.2024   
+
+ 
+
+ 
+
+ 
+
+C3a  Assigned freq. band
+
+34500
+
+C6b  Polarization angle
+
+BR64  Date of receipt of 1st Res49   
+C5a  Noise temperature 
+
+600 
+
+ 
+
+Page / Página / 页 / стр. / 12 ﺔﺤﻔﺼﻟا 
+
+  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+1 
+
+A1f1  Notif. adm. J 
+
+C11a5e  Min. elev. angle
+
+A1a  Sat. Network NB-SAT-Y16-150E 
+
+BR3a/BR3b  Provision reference 4.1.3 
+
+SECTION SPECIALE / SPECIAL SECTION / SECCIÓN ESPECIAL / 特节 / СПЕЦИАЛЬНАЯ СЕКЦИЯ / صﺎﳋا ﻢﺴﻘﻟا 
+A 
+BR6a/BR6b  Id. no. 116554021 
+C11a1  Service area no. 
+C11a5a  Test points are identical to group id. 
+  Associated typical earth station antenna characteristics are identical to group id. 
+C2a1  Assigned frequencies are identical to group id. 
+C7a/C8b/C8h  Designations of emissions and power characteristics are identical to group id. 
+C8i  Power control values are identical to group id. 
+A12  Range of automatic gain control 
+ 
+1019600 
+  
+  BR7a  Group id. 
+
+BR1  Date of receipt 10.08.2016 
+
+1019600 
+
+1019594
+
+1019598
+
+15 
+
+A1f3  Inter. sat. org.   
+B 
+
+C11a3  Service area diagram
+1019594
+1019594
+1019598
+
+BR1  Date of receipt 10.08.2016  BR20/BR21  BR IFIC no./part  2845/ 
+BR2  Adm. serial no.  
+
+17G 
+
+R 
+
+AP30A/E/756 
+
+ 
+
+A3a  Op. agency
+
+001
+
+ 
+
+ 
+
+ 
+
+1 
+
+EC 
+L  
+
+10.08.2024   
+
+C3a  Assigned freq. band
+
+C6b  Polarization angle
+C11a5e  Min. elev. angle
+
+BR62  Expiry date for bringing into use 
+C4a  Class of station 
+C6a  Polarization type 
+C11a1  Service area no. 
+C11a5a  Test points are identical to group id. 
+  Associated typical earth station antenna characteristics are identical to group id. 
+C2a1  Assigned frequencies are identical to group id. 
+C7a/C8b/C8h  Designations of emissions and power characteristics are identical to group id. 
+C8i  Power control values are identical to group id. 
+A12  Range of automatic gain control 
+ 
+1019601 
+  
+  BR7a  Group id. 
+
+BR1  Date of receipt 10.08.2016 
+
+1019601 
+
+15 
+
+0
+
+ 
+
+A3a  Op. agency
+
+001
+
+ 
+
+ 
+
+ 
+
+1 
+
+EC 
+L  
+
+10.08.2024   
+
+C3a  Assigned freq. band
+
+C6b  Polarization angle
+C11a5e  Min. elev. angle
+
+BR62  Expiry date for bringing into use 
+C4a  Class of station 
+C6a  Polarization type 
+C11a1  Service area no. 
+C11a5a  Test points are identical to group id. 
+  Associated typical earth station antenna characteristics are identical to group id. 
+C2a1  Assigned frequencies are identical to group id. 
+C7a/C8b/C8h  Designations of emissions and power characteristics are identical to group id. 
+C8i  Power control values are identical to group id. 
+A12  Range of automatic gain control 
+ 
+1019602 
+  
+  BR7a  Group id. 
+
+BR1  Date of receipt 10.08.2016 
+
+1019602 
+
+15 
+
+90
+
+ 
+
+ 
+
+A3a  Op. agency
+
+001
+
+2D  Date of protection  10.08.2016 
+A3b  Adm. resp. A 
+
+C15a  Exclusive op. group U9 
+
+BR64  Date of receipt of 1st Res49   
+C5a  Noise temperature 
+
+600 
+
+BR64  Date of receipt of 1st Res49   
+C5a  Noise temperature 
+
+600 
+
+34500
+
+ 
+
+C11a3  Service area diagram
+1019594
+1019594
+1019598
+
+1019594
+
+1019598
+
+2D  Date of protection  10.08.2016 
+A3b  Adm. resp. A 
+
+C15a  Exclusive op. group U9 
+
+34500
+
+ 
+
+C11a3  Service area diagram
+1019594
+1019594
+1019598
+
+1019594
+
+1019598
+
+2D  Date of protection  10.08.2016 
+A3b  Adm. resp. A 
+Page / Página / 页 / стр. / 13 ﺔﺤﻔﺼﻟا 
+
+C15a  Exclusive op. group U9 
+
+  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+A1f1  Notif. adm. J 
+
+A1a  Sat. Network NB-SAT-Y16-150E 
+
+SECTION SPECIALE / SPECIAL SECTION / SECCIÓN ESPECIAL / 特节 / СПЕЦИАЛЬНАЯ СЕКЦИЯ / صﺎﳋا ﻢﺴﻘﻟا 
+A 
+BR6a/BR6b  Id. no. 116554021 
+BR62  Expiry date for bringing into use 
+C4a  Class of station 
+C6a  Polarization type 
+C11a1  Service area no. 
+C11a5a  Test points are identical to group id. 
+  Associated typical earth station antenna characteristics are identical to group id. 
+C2a1  Assigned frequencies are identical to group id. 
+
+C6b  Polarization angle
+C11a5e  Min. elev. angle
+
+BR3a/BR3b  Provision reference 4.1.3 
+
+C3a  Assigned freq. band
+
+10.08.2024   
+
+EC 
+CR 
+
+38360
+
+1 
+
+ 
+
+ 
+
+ 
+
+A1f3  Inter. sat. org.   
+B 
+
+BR1  Date of receipt 10.08.2016  BR20/BR21  BR IFIC no./part  2845/ 
+BR2  Adm. serial no.  
+
+17G 
+
+R 
+
+ 
+
+BR64  Date of receipt of 1st Res49   
+C5a  Noise temperature 
+
+600 
+
+AP30A/E/756 
+
+C11a3  Service area diagram
+1019594
+1019594
+1019594
+
+C7a 
+
+C8b1 
+
+Design. of emission 
+
+Max. peak pwr 
+
+27 
+
+38M3D7W-- 
+C8i  Power control values are identical to group id. 
+A12  Range of automatic gain control 
+ 
+1019603 
+  
+  BR7a  Group id. 
+
+1019603 
+
+ 
+ 
+
+15 
+
+Maximum Power density per Hz over ... 
+C8b2  1 MHz 
+-48.8 
+
+-48.8 
+
+C8h  Necessary bandwidth 
+
+1019594
+
+ 
+ 
+
+ 
+
+BR1  Date of receipt 10.08.2016 
+
+ 
+
+A3a  Op. agency
+
+001
+
+2D  Date of protection  10.08.2016 
+A3b  Adm. resp. A 
+
+C15a  Exclusive op. group U9 
+
+ 
+
+ 
+
+ 
+
+1 
+
+EC 
+CL 
+
+10.08.2024   
+
+C3a  Assigned freq. band
+
+C6b  Polarization angle
+C11a5e  Min. elev. angle
+
+BR62  Expiry date for bringing into use 
+C4a  Class of station 
+C6a  Polarization type 
+C11a1  Service area no. 
+C11a5a  Test points are identical to group id. 
+  Associated typical earth station antenna characteristics are identical to group id. 
+C2a1  Assigned frequencies are identical to group id. 
+C7a/C8b/C8h  Designations of emissions and power characteristics are identical to group id. 
+C8i  Power control values are identical to group id. 
+A12  Range of automatic gain control 
+ 
+1019604 
+  
+  BR7a  Group id. 
+
+BR1  Date of receipt 10.08.2016 
+
+1019604 
+
+15 
+
+ 
+
+A3a  Op. agency
+
+001
+
+ 
+
+ 
+
+EC 
+L  
+
+10.08.2024   
+
+BR62  Expiry date for bringing into use 
+C4a  Class of station 
+C6a  Polarization type 
+C11a1  Service area no. 
+C11a5a  Test points are identical to group id. 
+  Associated typical earth station antenna characteristics are identical to group id. 
+C2a1  Assigned frequencies are identical to group id. 
+C7a/C8b/C8h  Designations of emissions and power characteristics are identical to group id. 
+
+C6b  Polarization angle
+C11a5e  Min. elev. angle
+
+C3a  Assigned freq. band
+
+1 
+
+ 
+
+0
+
+BR64  Date of receipt of 1st Res49   
+C5a  Noise temperature 
+
+600 
+
+BR64  Date of receipt of 1st Res49   
+C5a  Noise temperature 
+
+600 
+
+38360
+
+ 
+
+C11a3  Service area diagram
+1019594
+1019594
+1019594
+
+1019602
+
+1019594
+
+2D  Date of protection  10.08.2016 
+A3b  Adm. resp. A 
+
+C15a  Exclusive op. group U9 
+
+38360
+
+ 
+
+C11a3  Service area diagram
+1019594
+1019594
+1019594
+
+1019602
+
+ 
+
+Page / Página / 页 / стр. / 14 ﺔﺤﻔﺼﻟا 
+
+  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+A1a  Sat. Network NB-SAT-Y16-150E 
+
+SECTION SPECIALE / SPECIAL SECTION / SECCIÓN ESPECIAL / 特节 / СПЕЦИАЛЬНАЯ СЕКЦИЯ / صﺎﳋا ﻢﺴﻘﻟا 
+A 
+BR6a/BR6b  Id. no. 116554021 
+C8i  Power control values are identical to group id. 
+A12  Range of automatic gain control 
+ 
+1019605 
+  
+  BR7a  Group id. 
+
+BR3a/BR3b  Provision reference 4.1.3 
+
+BR1  Date of receipt 10.08.2016 
+
+A1f1  Notif. adm. J 
+
+1019605 
+
+1019594
+
+15 
+
+ 
+
+A1f3  Inter. sat. org.   
+B 
+
+BR1  Date of receipt 10.08.2016  BR20/BR21  BR IFIC no./part  2845/ 
+BR2  Adm. serial no.  
+
+17G 
+
+R 
+
+AP30A/E/756 
+
+ 
+
+A3a  Op. agency
+
+001
+
+ 
+
+ 
+
+ 
+
+1 
+
+EC 
+L  
+
+10.08.2024   
+
+C3a  Assigned freq. band
+
+C6b  Polarization angle
+C11a5e  Min. elev. angle
+
+BR62  Expiry date for bringing into use 
+C4a  Class of station 
+C6a  Polarization type 
+C11a1  Service area no. 
+C11a5a  Test points are identical to group id. 
+  Associated typical earth station antenna characteristics are identical to group id. 
+C2a1  Assigned frequencies are identical to group id. 
+C7a/C8b/C8h  Designations of emissions and power characteristics are identical to group id. 
+C8i  Power control values are identical to group id. 
+A12  Range of automatic gain control 
+ 
+1019606 
+  
+  BR7a  Group id. 
+
+BR1  Date of receipt 10.08.2016 
+
+1019606 
+
+15 
+
+90
+
+ 
+
+A3a  Op. agency
+
+001
+
+ 
+
+ 
+
+ 
+
+1 
+
+EC 
+CR 
+
+10.08.2024   
+
+C3a  Assigned freq. band
+
+C6b  Polarization angle
+C11a5e  Min. elev. angle
+
+BR62  Expiry date for bringing into use 
+C4a  Class of station 
+C6a  Polarization type 
+C11a1  Service area no. 
+C11a5a  Test points are identical to group id. 
+  Associated typical earth station antenna characteristics are identical to group id. 
+C2a1  Assigned frequencies are identical to group id. 
+C7a/C8b/C8h  Designations of emissions and power characteristics are identical to group id. 
+C8i  Power control values are identical to group id. 
+A12  Range of automatic gain control 
+ 
+1019607 
+  
+  BR7a  Group id. 
+
+BR1  Date of receipt 10.08.2016 
+
+1019607 
+
+15 
+
+BR62  Expiry date for bringing into use 
+C4a  Class of station 
+C6a  Polarization type 
+C11a1  Service area no. 
+C11a5a  Test points are identical to group id. 
+
+EC 
+CL 
+
+1 
+
+ 
+
+ 
+
+C6b  Polarization angle
+C11a5e  Min. elev. angle
+
+ 
+
+A3a  Op. agency
+
+001
+
+10.08.2024   
+
+ 
+
+C3a  Assigned freq. band
+
+38360
+
+ 
+
+2D  Date of protection  10.08.2016 
+A3b  Adm. resp. A 
+
+C15a  Exclusive op. group U9 
+
+BR64  Date of receipt of 1st Res49   
+C5a  Noise temperature 
+
+600 
+
+BR64  Date of receipt of 1st Res49   
+C5a  Noise temperature 
+
+600 
+
+38360
+
+ 
+
+C11a3  Service area diagram
+1019594
+1019594
+1019594
+
+1019602
+
+1019594
+
+2D  Date of protection  10.08.2016 
+A3b  Adm. resp. A 
+
+C15a  Exclusive op. group U9 
+
+38360
+
+ 
+
+C11a3  Service area diagram
+1019594
+1019594
+1019598
+
+1019602
+
+1019598
+
+2D  Date of protection  10.08.2016 
+A3b  Adm. resp. A 
+
+C15a  Exclusive op. group U9 
+
+ 
+
+BR64  Date of receipt of 1st Res49   
+C5a  Noise temperature 
+
+600 
+
+C11a3  Service area diagram
+1019594
+
+Page / Página / 页 / стр. / 15 ﺔﺤﻔﺼﻟا 
+
+  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+A1f1  Notif. adm. J 
+
+A1a  Sat. Network NB-SAT-Y16-150E 
+
+SECTION SPECIALE / SPECIAL SECTION / SECCIÓN ESPECIAL / 特节 / СПЕЦИАЛЬНАЯ СЕКЦИЯ / صﺎﳋا ﻢﺴﻘﻟا 
+A 
+BR6a/BR6b  Id. no. 116554021 
+Associated typical earth station antenna characteristics are identical to group id. 
+C2a1  Assigned frequencies are identical to group id. 
+C7a/C8b/C8h  Designations of emissions and power characteristics are identical to group id. 
+C8i  Power control values are identical to group id. 
+A12  Range of automatic gain control 
+ 
+1019608 
+  
+  BR7a  Group id. 
+
+BR3a/BR3b  Provision reference 4.1.3 
+
+BR1  Date of receipt 10.08.2016 
+
+1019594
+1019598
+
+1019608 
+
+1019598
+
+1019602
+
+15 
+
+A1f3  Inter. sat. org.   
+B 
+
+BR1  Date of receipt 10.08.2016  BR20/BR21  BR IFIC no./part  2845/ 
+BR2  Adm. serial no.  
+
+17G 
+
+R 
+
+AP30A/E/756 
+
+ 
+
+A3a  Op. agency
+
+001
+
+ 
+
+ 
+
+ 
+
+1 
+
+EC 
+L  
+
+10.08.2024   
+
+C3a  Assigned freq. band
+
+C6b  Polarization angle
+C11a5e  Min. elev. angle
+
+BR62  Expiry date for bringing into use 
+C4a  Class of station 
+C6a  Polarization type 
+C11a1  Service area no. 
+C11a5a  Test points are identical to group id. 
+  Associated typical earth station antenna characteristics are identical to group id. 
+C2a1  Assigned frequencies are identical to group id. 
+C7a/C8b/C8h  Designations of emissions and power characteristics are identical to group id. 
+C8i  Power control values are identical to group id. 
+A12  Range of automatic gain control 
+ 
+1019609 
+  
+  BR7a  Group id. 
+
+BR1  Date of receipt 10.08.2016 
+
+1019609 
+
+15 
+
+0
+
+ 
+
+A3a  Op. agency
+
+001
+
+ 
+
+ 
+
+ 
+
+EC 
+L  
+
+10.08.2024   
+
+C3a  Assigned freq. band
+
+BR62  Expiry date for bringing into use 
+C4a  Class of station 
+C6a  Polarization type 
+C11a1  Service area no. 
+C11a5a  Test points are identical to group id. 
+  Associated typical earth station antenna characteristics are identical to group id. 
+C2a1  Assigned frequencies are identical to group id. 
+C7a/C8b/C8h  Designations of emissions and power characteristics are identical to group id. 
+C8i  Power control values are identical to group id. 
+A12  Range of automatic gain control 
+
+C6b  Polarization angle
+C11a5e  Min. elev. angle
+
+1 
+
+90
+
+15 
+
+2D  Date of protection  10.08.2016 
+A3b  Adm. resp. A 
+
+C15a  Exclusive op. group U9 
+
+BR64  Date of receipt of 1st Res49   
+C5a  Noise temperature 
+
+600 
+
+BR64  Date of receipt of 1st Res49   
+C5a  Noise temperature 
+
+600 
+
+38360
+
+ 
+
+C11a3  Service area diagram
+1019594
+1019594
+1019598
+
+1019602
+
+1019598
+
+2D  Date of protection  10.08.2016 
+A3b  Adm. resp. A 
+
+C15a  Exclusive op. group U9 
+
+38360
+
+ 
+
+C11a3  Service area diagram
+1019594
+1019594
+1019598
+
+1019602
+
+1019598
+
+  
+  
+  
+
+ 
+
+Page / Página / 页 / стр. / 16 ﺔﺤﻔﺼﻟا 
+
+  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SECTION SPECIALE / SPECIAL SECTION / SECCIÓN ESPECIAL / 特节 / СПЕЦИАЛЬНАЯ СЕКЦИЯ / صﺎﳋا ﻢﺴﻘﻟا 
+A 
+BR6a/BR6b  Id. no. 116554021 
+
+BR3a/BR3b  Provision reference 4.1.3 
+
+A1a  Sat. Network NB-SAT-Y16-150E 
+
+A1f1  Notif. adm. J 
+
+ 
+
+A1f3  Inter. sat. org.   
+B 
+
+BR1  Date of receipt 10.08.2016  BR20/BR21  BR IFIC no./part  2845/ 
+BR2  Adm. serial no.  
+C7a  Designation of emission 34M5D7W-- 
+
+17G 
+
+R 
+
+AP30A/E/756 
+
+ 
+
+ 
+
+C9  Modulation characteristics 
+
+C9a1  Type of modulation 
+C9a3a  Freq. deviation of the pre-emphasized signal 
+C9a3b  Pre-emphasis characteristics 
+C9a3c  Type of multiplexing 
+C9a6a  Peak-to-peak freq. dev. 
+C9a6b  Sweep frequency 
+C9a6c  Energy dispersal waveform 
+C9a7  Type of energy dispersal 
+C9a9  TV standard 
+C9b1  Sound-broadcasting 
+C9b2  Baseband 
+BR7a  Group id. 
+
+C9  Modulation characteristics 
+
+C9a1  Type of modulation 
+C9a3a  Freq. deviation of the pre-emphasized signal 
+C9a3b  Pre-emphasis characteristics 
+C9a3c  Type of multiplexing 
+C9a6a  Peak-to-peak freq. dev. 
+C9a6b  Sweep frequency 
+C9a6c  Energy dispersal waveform 
+C9a7  Type of energy dispersal 
+C9a9  TV standard 
+C9b1  Sound-broadcasting 
+C9b2  Baseband 
+BR7a  Group id. 
+
+ 
+
+ 
+ 
+
+ 
+
+PSK 
+ 
+ 
+TDM 
+ 
+ 
+ 
+Carrier always spread by digital stream 
+Digital coding not standardized 
+ 
+ 
+1019578, 1019579, 1019580, 1019581, 1019582, 1019583, 1019584, 1019585, 1019594, 1019595, 1019596, 1019597, 
+1019598, 1019599, 1019600, 1019601 
+
+C7a  Designation of emission 38M3D7W-- 
+
+PSK 
+ 
+ 
+TDM 
+ 
+ 
+ 
+Carrier always spread by digital stream 
+Digital coding not standardized 
+ 
+ 
+1019586, 1019587, 1019588, 1019589, 1019590, 1019591, 1019592, 1019593, 1019602, 1019603, 1019604, 1019605, 
+1019606, 1019607, 1019608, 1019609 
+
+Page / Página / 页 / стр. / 17 ﺔﺤﻔﺼﻟا 
+
+  
+
+ 
+ 
+Graphics 
+Figure / Figura / 图 / Рисунок / 1  ﻞﻜﺸﻟا 
+
+ 
+
+ZONE DE SERVICE ET CONTOURS (COPOLAIRES) DE GAIN DE L’ANTENNE DE RECEPTION DE LA STATION SPATIALE 
+
+SPACE STATION RECEIVING ANTENNA GAIN CONTOURS (CO-POLAR) AND SERVICE AREA 
+
+ZONA DE SERVICIO Y CONTORNOS (COPOLARES) DE GANANCIA DE LA ANTENA RECEPTORA DE LA ESTACION ESPACIAL 
+
+ЗОНА ОБСЛУЖИВАНИЯ И (КОПОЛЯРНЫЕ) КОНТУРЫ УСИЛЕНИЯ ПРИЕМНОЙ АНТЕННЫ КОСМИЧЕСКОЙ СТАНЦИИ 
+
+空间台站接收天线增益等值线(同极化)和业务区 
+
+ﺔﻴﺋﺎﻀﻔﻟا ﺔﻄﺤﻤﻠﻟ لﺎﺒﻘ
+
+ﺘﺳﻻا ﻲﺋاﻮﳍ (بﺎﻄﻘﺘﺳﻻا ﺪﺤﺘﻣ) ﺐﺴﻜﻟا ﺔﻔﻛأو ﺔﻣﺪﳋا ﺔﻘﻄﻨﻣ
+
+ 
+
+NB-SAT-Y16-150E (150° E) 
+
+Faisceau / Beam / Haz / 波束 / Луч / ﺔﻣﺰﳊا : 14G 
+
+Gmax: 35 dBi 
+
+ 
+
+ 0.00
+
+ 
+
+ 0.00
+
+ 
+
+ 
+
+ 
+
+Zone de service / Service area / Zona de servicio / 业务区 / Зона обслуживания / ﺔﻣﺪﳋا ﺔﻘﻄﻨﻣ : XVE EXCL. EUR  (No. 01) 
+
+ 
+
+AP30A/E/756 
+
+Page / Página / 页 / стр. / 18 ﺔﺤﻔﺼﻟا 
+
+  
+
+ 
+Figure / Figura / 图 / Рисунок / 2  ﻞﻜﺸﻟا 
+
+ 
+
+ZONE DE SERVICE ET CONTOURS (COPOLAIRES) DE GAIN DE L’ANTENNE DE RECEPTION DE LA STATION SPATIALE 
+
+SPACE STATION RECEIVING ANTENNA GAIN CONTOURS (CO-POLAR) AND SERVICE AREA 
+
+ZONA DE SERVICIO Y CONTORNOS (COPOLARES) DE GANANCIA DE LA ANTENA RECEPTORA DE LA ESTACION ESPACIAL 
+
+ЗОНА ОБСЛУЖИВАНИЯ И (КОПОЛЯРНЫЕ) КОНТУРЫ УСИЛЕНИЯ ПРИЕМНОЙ АНТЕННЫ КОСМИЧЕСКОЙ СТАНЦИИ 
+
+空间台站接收天线增益等值线(同极化)和业务区 
+
+ﺔﻴﺋﺎﻀﻔﻟا ﺔﻄﺤﻤﻠﻟ لﺎﺒﻘﺘﺳﻻا ﻲﺋاﻮﳍ (بﺎﻄﻘﺘﺳﻻا ﺪﺤﺘﻣ) ﺐﺴﻜﻟا ﺔﻔﻛأو ﺔﻣﺪﳋا ﺔﻘﻄﻨﻣ
+
+ 
+
+NB-SAT-Y16-150E (150° E) 
+
+Faisceau / Beam / Haz / 波束 / Луч / ﺔﻣﺰﳊا : 17G 
+
+Gmax: 35 dBi 
+
+ 
+
+ 0.00
+
+ 
+
+ 0.00
+
+ 
+
+ 
+
+ 
+
+Zone de service / Service area / Zona de servicio / 业务区 / Зона обслуживания / ﺔﻣﺪﳋا ﺔﻘﻄﻨﻣ : RG1 & RG3  (No. 01) 
+
+ 
+
+AP30A/E/756 
+
+Page / Página / 页 / стр. / 19 ﺔﺤﻔﺼﻟا 
+
+  
+
+ 
+Figure / Figura / 图 / Рисунок / 3  ﻞﻜﺸﻟا 
+
+ 
+
+CONTOURS (CONTRAPOLAIRES) DE GAIN DE L’ANTENNE DE RECEPTION DE LA STATION SPATIALE 
+
+SPACE STATION RECEIVING ANTENNA GAIN CONTOURS (CROSS-POLAR) 
+
+CONTORNOS (CONTRAPOLARES) DE GANANCIA DE LA ANTENA RECEPTORA DE LA ESTACION ESPACIAL 
+
+(КРОССПОЛЯРНЫЕ) КОНТУРЫ УСИЛЕНИЯ ПРИЕМНОЙ АНТЕННЫ КОСМИЧЕСКОЙ СТАНЦИИ 
+
+空间台站接收天线增益等值线(交叉极化) 
+
+ﺔﻴﺋﺎﻀﻔﻟا ﺔﻄﺤﻤﻠﻟ لﺎﺒﻘﺘﺳﻻا ﻲﺋاﻮﳍ (بﺎﻄﻘﺘﺳﻻا ﺔﻌﻃﺎﻘﺘﻣ) ﺐﺴﻜﻟا ﺔﻔﻛأ
+
+ 
+
+NB-SAT-Y16-150E (150° E) 
+
+Faisceau / Beam / Haz / 波束 / Луч / ﺔﻣﺰﳊا : 14G 
+
+Gmax: 5 dBi 
+
+ 
+
+ 0.00
+
+ 
+
+ 0.00
+
+ 
+
+ 
+
+ 
+
+ 
+
+AP30A/E/756 
+
+Page / Página / 页 / стр. / 20 ﺔﺤﻔﺼﻟا 
+
+  
+
+ 
+Figure / Figura / 图 / Рисунок / 4  ﻞﻜﺸﻟا 
+
+ 
+
+CONTOURS (CONTRAPOLAIRES) DE GAIN DE L’ANTENNE DE RECEPTION DE LA STATION SPATIALE 
+
+SPACE STATION RECEIVING ANTENNA GAIN CONTOURS (CROSS-POLAR) 
+
+CONTORNOS (CONTRAPOLARES) DE GANANCIA DE LA ANTENA RECEPTORA DE LA ESTACION ESPACIAL 
+
+(КРОССПОЛЯРНЫЕ) КОНТУРЫ УСИЛЕНИЯ ПРИЕМНОЙ АНТЕННЫ КОСМИЧЕСКОЙ СТАНЦИИ 
+
+空间台站接收天线增益等值线(交叉极化) 
+
+ﺔﻴﺋﺎﻀﻔﻟا ﺔﻄﺤﻤﻠﻟ لﺎﺒﻘﺘﺳﻻا ﻲﺋاﻮﳍ (بﺎﻄﻘﺘﺳﻻا ﺔﻌﻃﺎﻘﺘﻣ) ﺐﺴﻜﻟا ﺔﻔﻛأ
+
+ 
+
+NB-SAT-Y16-150E (150° E) 
+
+Faisceau / Beam / Haz / 波束 / Луч / ﺔﻣﺰﳊا : 17G 
+
+Gmax: 5 dBi 
+
+ 
+
+ 0.00
+
+ 
+
+ 0.00
+
+ 
+
+ 
+
+ 
+
+ 
+
+AP30A/E/756 
+
+Page / Página / 页 / стр. / 21 ﺔﺤﻔﺼﻟا 
+
+  
+
+ 
+Figure / Figura / 图 / Рисунок / 5  ﻞﻜﺸﻟا 
+
+ 
+
+GAIN ESTIME DE L'ANTENNE DE RECEPTION DE LA STATION SPATIALE DANS LA DIRECTION DE L'ORBITE DES SATELLITES GEOSTATIONNAIRES 
+
+ESTIMATED GAIN OF THE SPACE STATION RECEIVING ANTENNA IN THE DIRECTION OF THE GEOSTATIONARY SATELLITE ORBIT 
+
+GANANCIA ESTIMADA DE LA ANTENA RECEPTORA DE LA ESTACION ESPACIAL EN EL SENTIDO DE LA ORBITA DE LOS SATELITES GEOESTACIONARIOS 
+
+РАСЧЕТНОЕ УСИЛЕНИЕ ПРИЕМНОЙ АНТЕННЫ КОСМИЧЕСКОЙ СТАНЦИИ В НАПРАВЛЕНИИ ОРБИТЫ ГЕОСТАЦИОНАРНЫХ СПУТНИКОВ 
+
+对地静止卫星轨道方向的空间台站接收天线估算增益 
+
+ضرﻷا ﱃإ ﺔﺒﺴﻨﻟʪ ةﺮﻘﺘﺴﳌا ﻞﺗاﻮﺴﻟا راﺪﻣ ﻩﺎﲡا ﰲ ﺔﻴﺋﺎﻀﻔﻟا ﺔﻄﺤﻤﻠﻟ لﺎﺒﻘﺘﺳﻻا ﻲﺋاﻮﳍ رﺪﻘﳌا ﺐﺴ
+
+ﻜﻟا
+
+ 
+
+NB-SAT-Y16-150E (150° E) 
+
+Faisceau / Beam / Haz / 波束 / Луч / ﺔﻣﺰﳊا : 17G 
+
+30
+
+25
+
+20
+
+15
+
+10
+
+5
+
+Y
+
+0
+
+0
+
+30
+
+60
+
+90
+
+120
+
+150
+
+210
+
+240
+
+270
+
+300
+
+330
+
+360
+
+180
+
+X
+
+X =   Longitude (degrees) 
+Y =   Gain (dBi) 
+ 
+
+Obstructed Zone 
+
+Longitude (degrés) 
+Gain (dBi) 
+Zone Occultée 
+
+Longitud (grados) 
+Ganancia (dBi) 
+Zona Ocultada 
+
+经度(度) 
+
+增益(dBi) 
+
+受阻区 
+
+Долгота (в градусах) 
+Усиление (дБ) 
+Закрытая зона  
+
+ 
+(تﺎﺟرﺪﻟʪ) لﻮﻄﻟا ﻂﺧ
+ﺐﺴﻜﻟا
+(dBi)
+ﺔﺑﻮﺠﳏ ﺔﻘﻄﻨﻣ
+
+ 
+
+AP30A/E/756 
+
+Page / Página / 页 / стр. / 22 ﺔﺤﻔﺼﻟا 
+
+  
+
+ 
+ 
+ 
+ 
+Administrations et/ou réseaux à satellite affectés / Affected administrations and/or satellite networks / Administraciones y/o redes de satélite afectadas 
+
+受影响的主管部门和/或卫星网络 / Затронутые администрации и/или спутниковые сети /   تارادﻹا
+
+و
+
+ةﺮﺛﺄﺘﳌا ﺔﻴﻠﺗﺎﺴﻟا تﺎﻜﺒﺸﻟا وأ  
+ 
+
+/
+
+ 
+
+A1f1 
+
+Notif. adm. 
+
+J 
+
+J 
+
+ 
+ 
+
+A1f1 
+
+Notif. adm. 
+
+A1f3 
+Inter. sat. 
+org. 
+
+F 
+ 
+ 
+INS 
+S 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+A1f3 
+Inter. sat. 
+org. 
+
+[GHz14] 1
+ 
+
+A4a1 
+
+Orbital long. 
+
+BR6a 
+Id. no. 
+
+A1a  Sat. Network / 
+
+ 
+A1b  Plan beam identification 
+App.30A Art.4, §§4.1.1 a) & 4.1.1 b) - Annexe 1, §4 [14 GHz] 
+App.30A Art.4, §§4.1.1 a) & 4.1.1 b) - Annex 1, §4 [14 GHz] 
+Ap.30A Art.4, §§4.1.1 a) & 4.1.1 b) - Anexo 1, §4 [14 GHz] 
+附录30A 第4条, 第4.1.1 a) 段和4.1.1 b)段 – 附件1, 第4段[14 GHz] 
+Пр. 30A Ст. 4, пп. 4.1.1 a) и 4.1.1 b) – Дополнение 1, п. 4 [14 ГГц] 
+نʫﺮﻘﻔﻟا
+150.5 E
+
+ﻖﺤﻠﳌا ﻦﻣ
+ةﺮﻘﻔﻟا
+-
+NB-SAT-150.5E 
+App.30A Art.4, §§4.1.1 a) & 4.1.1 b) - Annexe 1, §4 [17 GHz] 
+App.30A Art.4, §§4.1.1 a) & 4.1.1 b) - Annex 1, §4 [17 GHz] 
+Ap.30A Art.4, §§4.1.1 a) & 4.1.1 b) - Anexo 1, §4 [17 GHz] 
+附录30A 第4条, 第4.1.1 a) 段和 4.1.1 b) 段– 附件1, 第4段 [17 GHz] 
+Пр. 30A Ст. 4, пп. 4.1.1 a) и 4.1.1 b) – Дополнение 1, п. 4 [17 ГГц] 
+نʫﺮﻘﻔﻟا
+150.5 E
+
+ﻖﺤﻠﳌا ﻦﻣ
+ةﺮﻘﻔﻟا
+-
+NB-SAT-150.5E 
+
+ 
+ةدﺎﳌا ﻦﻣ (ب
+1.1.4
+114554006
+
+ 
+ةدﺎﳌا ﻦﻣ (ب
+1.1.4
+114554006
+
+ﻞﻴﻳﺬﺘﻟا ﻦﻣ
+
+ﻞﻴﻳﺬﺘﻟا ﻦﻣ
+
+1.1.4
+
+1.1.4
+
+و (أ
+
+و (أ
+
+30A
+
+30A
+
+4
+
+4
+
+4
+
+[GHz17] 1
+ 
+
+4
+
+BR45 
+
+Max. EPM/OEPM 
+degradation 
+
+20.211
+
+20.239
+
+A1a  Sat. Network / 
+
+A1b  Plan beam identification 
+
+A4a1 
+
+Category of 
+
+Orbital long. 
+
+BR3b 
+notif. 
+App.30A Art.4, §4.1.1 c) - Annexe 1, §5 
+App.30A Art.4, §4.1.1 c) - Annex 1, §5 
+Ap.30A Art.4, §4.1.1 c) - Anexo 1, §5 
+附录30A 第4条, 第4.1.1 c)段– 附件 1, 第5段 
+Пр. 30A Ст. 4, п. 4.1.1 c) – Дополнение 1, п. 5 
+ 
+ﻖﺤﻠﳌا ﻦﻣ
+ةﺮﻘﻔﻟا
+ةدﺎﳌا ﻦﻣ (ج
+1
+1.1.4
+Néant / None / Ninguna / 无 / Нет / ﺪﺟﻮﻳ ﻻ 
+
+ﻞﻴﻳﺬﺘﻟا ﻦﻣ
+
+ةﺮﻘﻔﻟا
+
+30A
+
+4
+
+5
+
+-
+
+1
+
+-
+
+6
+
+4
+
+30A
+
+ةﺮﻘﻔﻟا
+
+App.30A Art.4, §4.1.1 d) - Annexe 1, §6 
+App.30A Art.4, §4.1.1 d) - Annex 1, §6 
+Ap.30A Art.4, §4.1.1 d) - Anexo 1, §6 
+附录30A第4条, 第4.1.1 d)段 – 附件1, 第6段 
+Пр. 30A Ст. 4, п. 4.1.1 d) – Дополнение 1, п. 6 
+ﻖﺤﻠﳌا ﻦﻣ
+ 
+ةﺮﻘﻔﻟا
+ةدﺎﳌا ﻦﻣ (د
+1.1.4
+C 
+C 
+C 
+C 
+C 
+C 
+C 
+C 
+
+ﻞﻴﻳﺬﺘﻟا ﻦﻣ
+155.9 E 
+152 E 
+155.9 E 
+146 E 
+21.5 E 
+31 E 
+39 E 
+55 E 
+AP30A/E/756 
+
+F-SAT-N3-155.9E 
+F-SAT-N4-152E 
+F-SAT-N5-155.9E 
+PSN-146E 
+SMMSAT-4X 
+SMMSAT-5X 
+SMMSAT-6X 
+SMMSAT-7X 
+
+BR25 
+A/T 
+
+BR6a 
+Id. no. 
+
+A 
+A 
+A 
+A 
+A 
+A 
+A 
+A 
+
+113520293 
+114520258 
+116520216 
+113520094 
+115520304 
+115520305 
+115520306 
+115520307 
+
+ 
+
+Page / Página / 页 / стр. / 23 ﺔﺤﻔﺼﻟا 
+
+  
+
+A1f1 
+
+Notif. adm. 
+
+ 
+
+ 
+
+A1f3 
+Inter. sat. 
+org. 
+ 
+
+A1a  Sat. Network / 
+
+ 
+A4a1 
+
+A1b  Plan beam identification 
+
+Orbital long. 
+
+SMMSAT-8X 
+
+61.5 E 
+
+Category of 
+
+BR3b 
+notif. 
+C 
+
+BR25 
+A/T 
+
+A 
+
+BR6a 
+Id. no. 
+
+115520308 
+
+AP30A/E/756 
+
+Page / Página / 页 / стр. / 24 ﺔﺤﻔﺼﻟا 
+
+  
+
+ 
+
+ 
+
+BR comments 1 (F) 
+
+Notes du Bureau des radiocommunications 
+
+ 
+
+ 
+ 
+ 
+
+Note relative à l’identification des assignations propres à une administration notificatrice 
+1. 
+ 
+Lorsqu’une administration notificatrice agit en son nom propre, et non au nom d’un groupe d’administrations nommément désignées, il faut considérer que chaque fois que ses propres assignations sont citées 
+dans les Sections spéciales AP30/E/, AP30A/E/ et AP30-30A/E au titre des § 4.1.1a), 4.1.1b), 4.1.1e), 4.2.3c) ou 4.2.3e) de l’Appendice 30 et 4.1.1a), 4.1.1b) ou 4.2.2c) de l’Appendice 30A comme susceptibles d’être 
+affectées, elles le sont pour information seulement. La responsabilité de la coordination entre les assignations concernées et les assignations proposées dans la présente Section spéciale est une question interne qui 
+incombe à l’administration notificatrice. 
+ 
+
+ 
+
+Note relative à l'application du concept de groupement à un réseau dont les assignations sont groupées intérieurement mais pas extérieurement avec d'autres réseaux figurant dans un Plan/une 
+
+2. 
+Liste 
+ 
+L'application du concept de groupement dans les Régions 1 et 3 à un réseau dont les assignations sont groupées intérieurement est expliquée dans les Articles 11 de l'Appendice 30 et 9A de l'Appendice 30A. Sur 
+la base de ce concept, le calcul des brouillages causés à des assignations qui font partie d'un groupe ne tient compte que des brouillages causés par des assignations qui ne font pas partie de ce même groupe. En outre, 
+pour le calcul du brouillage causé par des assignations appartenant à un groupe à des assignations ne faisant pas partie du même groupe, seule la contribution de brouillage la plus préjudiciable de ce groupe est prise 
+en considération.  
+ 
+ 
+
+Note relative à la valeur de commande de puissance 
+La valeur publiée sous ce point a été soumise par l'Administration responsable. Le Bureau calculera l'augmentation de puissance admissible des assignations en question dès que ces assignations auront été 
+
+3. 
+ 
+ 
+inscrites dans la Liste des utilisations additionnelles, une fois menée à bien la procédure prévue à l'Article 4, et communiquera les résultats de ses calculs à l'Administration responsable du réseau en question. 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+AP30A/E/756 
+
+Page / Página / 页 / стр. / 25 ﺔﺤﻔﺼﻟا 
+
+  
+
+BR comments 1 (E) 
+
+ 
+
+Radiocommunication Bureau Notes 
+
+ 
+ 
+ 
+
+Note relating to the identification of a notifying administration’s own assignments 
+1. 
+ 
+ 
+Where a notifying administration is acting on its own behalf, and not on behalf of a group of named administrations, it should be understood that whenever its own assignments are identified as being potentially 
+affected in AP30/E/, AP30A/E/ and AP30-30A/E/ Special Sections under § 4.1.1 a), 4.1.1 b), 4.1.1 e), 4.2.3 c) or 4.2.3 e) of Appendix 30 and 4.1.1 a), 4.1.1 b) or 4.2.2 c) of Appendix 30A, this identification is provided only 
+for information.  Responsibility for coordination between such assignments and the proposed assignments is an internal matter for the notifying administration. 
+
+ 
+ 
+
+2. 
+Note relating to application of the grouping concept to a network with assignments internally grouped and not externally grouped with networks in a  Plan/List 
+ 
+Application of the grouping concept in Regions 1 and 3 to a network with assignments only internally grouped is explained in Articles 11 and 9A of Appendices 30 and 30A respectively. Based on this concept, 
+ 
+when calculating interference to assignments that are part of a group, only the interference contributions from assignments that are not part of the same group are included. Moreover, when calculating interference from 
+assignments belonging to a group into assignments that are not part of the same group, only the worst interference contribution from that group is used. 
+ 
+
+Note relating to the power control value 
+The value published under this item has been submitted by the responsible Administration. The Bureau will calculate the permissible power increase of the assignments in question once they have entered into 
+
+3. 
+ 
+ 
+the List of additional uses after successful application of the Article 4 procedure and will communicate the results of its calculations to the Administration responsible for the subject network. 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+AP30A/E/756 
+
+Page / Página / 页 / стр. / 26 ﺔﺤﻔﺼﻟا 
+
+  
+
+BR comments 1 (S) 
+
+Notas de la Oficina de Radiocomunicaciones 
+
+ 
+
+ 
+ 
+ 
+Nota relativa a la identificación de las proprias asignaciones de una administración notificante 
+1. 
+ 
+Cuando una administración notificante actúe en nombre propio y no en nombre de un grupo de administraciones designadas, se entenderá que siempre que sus propias asignaciones están identificadas como 
+ 
+potencialmente afectadas en las Secciones Especiales AP30/E/, AP30A/E/ y AP30-30A/E/ con arreglo a los § 4.1.1a), 4.1.1b), 4.1.1e), 4.2.3c) o 4.2.3e) del Apéndice 30 y 4.1.1a), 4.1.1b) o 4.2.2c) del Apéndice 30A, esta 
+identificación se efectúa solamente a título informativo. La responsabilidad de la coordinación entre tales asignaciones y las asignaciones propuestas en esta Sección Especial es un asunto interno de la administración 
+notificante. 
+ 
+ 
+Nota relativa a la aplicación del concepto de agrupación a una red con asignaciones internamente agrupadas y no externamente agrupadas con redes en un Plan/Lista 
+2. 
+ 
+La aplicación del concepto de agrupación en las Regiones 1 y 3 a una red con asignaciones únicamente internamente agrupadas se explica en los Artículos 11 y 9A de los Apéndices 30 y 30A, respectivamente. 
+Basándose en este concepto, cuando se calcula la interferencia causada a las asignaciones que forman parte de un grupo, se incluyen unicamente las contribuciones a la interferencia procedentes de asignaciones que 
+no forman parte del mismo grupo. Además, cuando se calcula la interferencia causada por asignaciones pertenecientes a un grupo a asignaciones que no forman parte de ese mismo grupo, sólo se utiliza la contribución 
+de interferencia de caso más desfavorable procedente de dicho grupo. 
+ 
+ 
+3. 
+ 
+ 
+usos adicionales tras aplicar satisfactoriamente el procedimiento del Artículo 4 y comunicará los resultados de sus cálculos a la Administración responsable de la red correspondiente. 
+ 
+ 
+
+Nota relativa al valor del control de potencia 
+El valor publicado en este punto se ha presentado a la Administración responsable. La Oficina calculará el incremento de potencia admisible de las asignaciones en cuestión una vez introducidas a la Lista de 
+
+ 
+
+ 
+
+AP30A/E/756 
+
+Page / Página / 页 / стр. / 27 ﺔﺤﻔﺼﻟا 
+
+  
+
+BR comments 1 (C) 
+
+1. 
+
+关于确定一通知主管部门自己的指配的注解 
+
+ 
+
+ 
+
+无线电通信局的注释 
+
+ 
+ 
+ 
+
+当一通知主管部门代表自己，而不是代表一组指名的主管部门行事时，应理解为每当该主管部门自己的指配根据附录 30 的第 4.1.1 a)、4.1.1 b)、 4.1.1 e)、4.2.3 c) 或 4.2.3 e) 段和附录 30A 的第 4.1.1 a)、 4.1.1 b) 
+
+ 
+或 4.2.2c)段，在特节 AP30/E/、AP30A/E/ 和 AP30-30A/E/ 中被确定为可能受到影响时，这种确定仅供参考。此类指配与建议的指配之间的协调责任属通知主管部门的内部事宜。 
+ 
+
+ 
+
+关于对一个有内部分组而非与规划/列表中的网络进行外部分组的指配的网络应用分组概念的注解 
+
+2. 
+ 
+ 
+外，在计算一组中的指配对非本组的指配造成的干扰时，仅采用该组最差干扰。 
+ 
+
+附录 30 和 30A 的第 11 条和第 9A 条分别说明了对 1 区和 3 区中一个仅有内部分组的指配的网络应用分组概念的问题。根据此概念，在计算对一组中指配的干扰时，仅计算来自于非本组内指配造成的干扰。另
+
+关于功率控制值的注解 
+
+ 
+
+ 
+
+在此数据项下公布的值由负责主管部门提交。在第 4 条程序得到成功实施而且所述指配进入附加使用列表之后，无线电通信局将计算其容许增加功率并将计算结果通知所述网络的负责主管部门。 
+
+ 
+
+AP30A/E/756 
+
+Page / Página / 页 / стр. / 28 ﺔﺤﻔﺼﻟا 
+
+  
+
+3. 
+
+ 
+ 
+ 
+
+ 
+
+BR comments 1 (R) 
+
+ 
+
+Примечания Бюро радиосвязи 
+
+ 
+ 
+ 
+
+Примечание, относящееся к определению присвоений, за которые отвечает заявляющая администрация 
+1. 
+ 
+Когда заявляющая администрация действует от своего собственного имени, а не от имени группы названных администраций, следует принимать во внимание, что каждый раз, когда ее собственные 
+ 
+присвоения упоминаются в Специальных секциях AP30/E/, AP30A/E/ и AP30-30A/E/ как потенциально затрагиваемые в соответствии с положениями пп. 4.1.1 a), 4.1.1 b), 4.1.1 e), 4.2.3 c) или 4.2.3 e) Приложения 
+30 и пп. 4.1.1 a), 4.1.1 b) или 4.2.2 c) Приложения 30A, это делается исключительно в целях информации. Ответственность за координацию между такими присвоениями и присвоениями, предложенными в 
+настоящей Специальной секции, является внутренним вопросом, касающимся заявляющей администрации. 
+ 
+ 
+Примечание, относящееся к применению концепции группирования к сети, присвоения которой сгруппированы между собой, но не с другими сетями в Плане/Списке 
+2. 
+ 
+Применение концепции группирования в Районах 1 и 3 к сети с присвоениями, которые сгруппированы только между собой, объясняется в Статьях 11 и 9А Приложений 30 и 30А, соответственно. 
+ 
+На основе этой концепции при расчете помех, создаваемых присвоениями, которые являются частью группы, включены только составляющие помех от присвоений, которые не являются частью той же 
+группы. Кроме того, при расчете помех, создаваемых присвоениями одной группы, присвоениям, не принадлежащим к той же группе, следует учитывать только наихудшую составляющую помех от этой 
+группы. 
+ 
+
+Примечание, относящееся к значению регулирования мощности 
+3. 
+ 
+Значение, опубликованное в рамках этого элемента, было представлено ответственной администрацией. Бюро рассчитает допустимое увеличение мощности рассматриваемых присвоений, как 
+ 
+только они будут занесены в Список для дополнительного использования после успешного применения процедуры по Статье 4, и сообщит о результатах своих расчетов администрации, ответственной за 
+рассматриваемую сеть. 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+AP30A/E/756 
+
+Page / Página / 页 / стр. / 29 ﺔﺤﻔﺼﻟا 
+
+  
+
+BR comments 1 (A) 
+
+ 
+
+ﺔﻳﻮﻳداﺮﻟا تﻻﺎﺼﺗﻻا ﺐﺘﻜﻣ تﺎﻈﺣﻼﻣ
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ (ج 
+(ب 
+ 
+ وأ
+ (ﻫ 
+ وأ
+ وأ
+ (ﻫ 
+ (أ 
+ وأ
+3.2.4
+1.1.4
+3.2.4
+ ﺎﻬﻠﻤﺤﺘﺗ ﺔﻴﻠﺧاد ﺔﻟﺄﺴ
+ﻣ ﻲﻫ ﺔﺣﱰﻘﳌا تﺎﺼﻴﺼﺨﺘﻟاو
+ ﺔﻴﻨﻌﳌا تﺎﺼﻴﺼﺨﺘﻟا ﲔﺑ ﻖﻴﺴﻨﺘﻟا ﺔﻴﻟوﺆﺴﻣو .ﻂﻘﻓ ﻢﻠﻌﻠﻟ ﻲﻫ ةرﺎﺷﻹا ﻩﺬﻫ نأ ًﺎﻣﻮﻬﻔﻣ نﻮﻜﻳ نأ ﻲﻐﺒﻨﻳ ،ﺮﺛﺄﺘﺗ نأ ﻞﻤﺘﳛ تﺎﺼﻴﺼﲣ ﺎĔأ ﻰﻠﻋ ،
+30A
+
+ تاﺮﻘﻔﻟا ﺐﺟﻮﲟ
+ 
+
+AP30-30A/E
+
+AP30A/E/
+
+AP30/E/
+
+1.1.4
+
+1.1.4
+
+ و
+
+ و
+
+ﺔﻐﻠﺒﳌا ةرادﻹʪ ﺔﺻﺎﳋا تﺎﺼﻴﺼﺨﺘﻟا ﺪﻳﺪﺤﺘﺑ ﻖﻠﻌﺘﺗ ﺔﻈﺣﻼﻣ
+.1
+ 
+ 
+ ﺔﺻﺎﳋا مﺎﺴﻗﻷا ﰲ ﺎēﺎﺼﻴﺼﲣ ﱃإ رﺎﺸﻳ ةﺮﻣ ﻞﻛ ﰲ ،ةدﺪﳏ تارادإ ﺔﻋﻮﻤﳎ ﻦﻋ ﺲﻴﻟو ﺎﻬﺴﻔﻧ ﻦﻋ ،ﺔﻐﻠﺒﻣ ةرادإ فﺮﺼﺘﺗ ﺎﻣﺪﻨﻋ
+30 
+ تاﺮﻘﻔﻟاو
+ ﻞﻴﻳﺬﺘﻟا ﻦﻣ
+.ﺔﻐﻠﺒﳌا ةرادﻹا
+  
+
+ ﻞﻴﻳﺬﺘﻟا ﻦﻣ
+ (ج 
+
+(ب 
+ 
+ وأ
+
+ (أ 
+ وأ
+
+1.1.4
+
+1.1.4
+
+2.2.4
+
+  
+
+ ﻦﻣ ًاءﺰﺟ ﻞﻜﺸﺗ ﱵﻟا تﺎﺼﻴﺼﺨﺘﻟا ﰲ ﻞﺧاﺪﺘﻟا بﺎﺴﺣ 
+ ﻞﺧاﺪﺘﻟا تﻻﺎﺣ أﻮﺳأ
+
+ 
+
+  
+ﻰﻠﻋ ﻊﻴﻤﺠﺘﻟا مﻮﻬﻔﻣ ﻖﻴﺒﻄﺘﺑ ﻖﻠﻌﺘﺗ ﺔﻈﺣﻼﻣ
+ 
+ﺔﻨﻴﻌﻣ ﺔﻤﺋﺎﻗ/ﺔﻄﺧ ﺎﻬﻴﻄﻐﺗ تﺎﻜﺒﺷ ﻊﻣ ًﺎﻴﺟرﺎﺧ ﺲﻴﻟو ًﺎﻴﻠﺧاد ﺔﻌﻤﳎ ﺎēﺎﺼﻴﺼﲣ ﺔﻜﺒﺷ
+.2
+ ﲔﻤﻴﻠﻗﻹا ﰲ ﻊﻴﻤﺠﺘﻟا مﻮﻬﻔﻣ ﻖﻴﺒﻄﺗ نإ
+ 
+11 و9A 
+ ﲔﻠﻴﻳﺬﺘﻟا ﰲ
+1 و3 
+ 
+30 و
+ﻪﺣﺮﺷ درو ﺪﻗ ،ﻂﻘﻓ ًﺎﻴﻠﺧاد ﺔﻌﻤﳎ ﺎēﺎﺼﻴﺼﲣ ﺔﻜﺒﺷ ﻰﻠﻋ
+ﻻإ ،ﺔﻋﻮﻤĐا ﺲﻔﻧ ﻦﻣ ًاءﺰﺟ ﻞﻜﺸﺗ ﻻ تﺎﺼﻴﺼﲣ ﰲ ﺔﻨﻴﻌﻣ ﺔﻋﻮﻤﳎ ﻦﻣ ًاءﺰﺟ ﻞﻜﺸﺗ تﺎﺼﻴﺼﲣ ﻦﻣ ﻞ
+ﺧاﺪﺘﻟا بﺎﺴﺣ ىﺪﻟ ،رﺎﺒﺘﻋﻻا ﰲ ﺬﺧﺆﺗ ﻻ ﻚﻟذ ﻰﻠﻋ ةوﻼﻋو .ﺔﻋﻮﻤĐا ﻩﺬﻫ ﻦﻣ ًاءﺰﺟ ﻞﻜﺸﺗ ﻻ تﺎﺼﻴﺼﲣ ﻦﻋ ردﺎﺼﻟا ﻞﺧاﺪﺘﻟا ﻻإ ﺔﻨﻴﻌﻣ ﺔﻋﻮﻤﳎ
+  
+.ﺔﻋﻮﻤĐا ﻚﻠﺗ ﻦﻣ
+
+ﰲ ﻞﺧﺪﻳ ﻻ ،مﻮﻬﻔﳌا اﺬﻫ ﱃإ ًادﺎﻨﺘﺳاو .ﱄاﻮﺘﻟا ﻰﻠﻋ
+30A 
+
+ ﲔﺗدﺎﳌا ﰲ
+ 
+
+ ﺐﺘﻜﳌا ﻂﻴﺤﻴﺳ ﰒ ،حﺎﺠﻨﺑ
+ة 4 
+
+دﺎﳌا ءاﺮﺟإ ﻖﻴﺒﻄﺗ ﺪﻌﺑ ﺔﻴﻓﺎﺿﻹا تﻻﺎﻤﻌﺘﺳﻻا
+
+ ﺔﻤﺋﺎﻗ ﰲ ﺎﳍﺎﺧدإ رﻮﻓ ﺔﻴﻨﻌﳌا تﺎﺼﻴﺼﺨﺘﻟʪ ﻖﻠﻌ
+
+ةرﺪﻘﻟا ﰲ ﻢﻜﺤﺘﻟا ﺔﻤﻴﻘﺑ ﻖﻠﻌﺘﺗ ﺔﻈﺣﻼﻣ
+ﺘﻳ ﺎﻤﻴﻓ ةرﺪﻘﻟا ﰲ ﺎđ حﻮﻤﺴﳌا ةدʮﺰﻟا بﺎﺴﲝ ﺐﺘﻜﳌا مﻮﻘﻴﺳو .ﺔﻟوﺆﺴﳌا ةرادﻹا ﻦﻣ ﺔﻣﺪﻘﳌا ﺔﻤﻴﻘﻟا ﻲﻫ ﺪﻨﺒﻟا اﺬﻫ ﰲ ةرﻮﺸﻨﳌا ﺔﻤﻴﻘﻟا
+ 
+
+  
+
+.3
+
+ 
+
+.ﺎﻫاﺮﺟأ ﱵﻟا تʪﺎﺴﳊا ﺞﺋﺎﺘﻨﺑ ًﺎﻤﻠﻋ ﺔﻴﻨﻌﳌا ﺔﻜﺒﺸﻟا ﻦﻋ ﺔﻟوﺆﺴﳌا ةرادﻹا
+
+ 
+
+AP30A/E/756 
+
+Page / Página / 页 / стр. / 30 ﺔﺤﻔﺼﻟا 
+
+  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
