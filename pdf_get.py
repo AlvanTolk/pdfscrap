@@ -47,8 +47,8 @@ print "running..."
 #f.close()
 #print "Done!"
 
-from pdf_document import PDFDocument
-from pdftables import page_to_tables
+from pdftables.pdf_document import PDFDocument
+from pdftables.pdftables import page_to_tables
 
 
 filepath = "AP30Ae0756.pdf"
