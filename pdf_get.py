@@ -1,8 +1,8 @@
-from pdfminer.pdfinterp import PDFResourceManager, PDFPageInterpreter
-from pdfminer.converter import TextConverter
-from pdfminer.converter import XMLConverter
-from pdfminer.layout import LAParams
-from pdfminer.pdfpage import PDFPage
+#from pdfminer.pdfinterp import PDFResourceManager, PDFPageInterpreter
+#from pdfminer.converter import TextConverter
+#from pdfminer.converter import XMLConverter
+#from pdfminer.layout import LAParams
+#from pdfminer.pdfpage import PDFPage
 from cStringIO import StringIO
 
 
