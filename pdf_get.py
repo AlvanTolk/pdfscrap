@@ -4,6 +4,9 @@ from pdfminer.converter import XMLConverter
 from pdfminer.layout import LAParams
 from pdfminer.pdfpage import PDFPage
 from cStringIO import StringIO
+from pdftables.pdf_document import PDFDocument
+from pdftables.pdftables import page_to_tables
+
 
 
 
