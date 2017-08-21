@@ -55,3 +55,5 @@ doc = PDFDocument.from_fileobj(fileobj)
 
 page = doc.get_page(23)
 tables = page_to_tables(page)
+print tables
+
